@@ -12,5 +12,25 @@ contoh tag pembuka:  &lt;h1&gt;
 
 contoh tag penutup:  &lt;/h1&gt;
 
-...perlu diingat, bahwa perbedaan antara tag pembuka dan penutup adalah tag penutup punya garis miring atau slash \( / \) diawal tanda kurung lancip 
+...perlu diingat, bahwa perbedaan antara tag pembuka dan penutup adalah tag penutup punya garis miring atau slash \( / \) diawal tanda kurung lancip
+
+setiap tantangan akan di test yang bisa dijalannkan langsung dengan meng-klik "Run Test". Setelah semua test dilewati, kau bisa melanjutkan ke tantangan selanjutnya.
+
+Untuk melewati tantangan kali ini, kau ganti lah itu elemen _h1_ teksnya dengan "Hello World" lalu klik tombol "run Test".
+
+###### Contoh Soal
+
+⋅⋅\* buatlah elemen h1 mu dengan teks "Hello World".
+
+###### hasil
+
+```HTML
+<h1>Hello</h1>
+```
+
+
+
+
+
+
 

@@ -6,6 +6,7 @@
     * [Membuat headline dengan elemen H2](sdas/membuat-headline-dengan-elemen-h2.md)
     * [Elemen Paragraf](sdas/elemen-paragraf.md)
     * [Hapus Komentar](sdas/hapus-komentar.md)
+    * [Komentar HTML](sdas/komentar-html.md)
   * [Responsive Design with Bootstrap](responsive-design-with-bootstrap.md)
   * jQuery
 

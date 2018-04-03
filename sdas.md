@@ -8,5 +8,9 @@ Apakah kau melihat kode pada text editor &lt;h1&gt;Hello&lt;/h1&gt;? itu adalah 
 
 kebanyakan elemen HTML memiliki sebuah _tag pembuka \_dan \_tag penutup_.
 
-contoh tag pembuka:  HTML
+contoh tag pembuka:  &lt;h1&gt;
+
+contoh tag penutup:  &lt;/h1&gt;
+
+...asdadads 
 

@@ -7,6 +7,7 @@
     * [Elemen Paragraf](sdas/elemen-paragraf.md)
     * [Hapus Komentar](sdas/hapus-komentar.md)
     * [Komentar HTML](sdas/komentar-html.md)
+    * [Placeholder](sdas/placeholder.md)
   * [Responsive Design with Bootstrap](responsive-design-with-bootstrap.md)
   * jQuery
 

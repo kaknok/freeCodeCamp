@@ -6,9 +6,7 @@ kau dapat merubah kode pada aplikasi text editor, yang mana telah kami sediakan 
 
 Apakah kau melihat kode pada text editor &lt;h1&gt;Hello&lt;/h1&gt;? itu adalah sebuah elemen HTML
 
-kebanyakan elemen HTML memiliki sebuah _tag pembuka _dan _tag penutup_.
+kebanyakan elemen HTML memiliki sebuah _tag pembuka \_dan \_tag penutup_.
 
-contoh tag pembuka:
-
-html 
+contoh tag pembuka:  HTML
 

@@ -12,5 +12,5 @@ contoh tag pembuka:  &lt;h1&gt;
 
 contoh tag penutup:  &lt;/h1&gt;
 
-...asdadads 
+...perlu diingat, bahwa perbedaan antara tag pembuka dan penutup adalah tag penutup punya garis miring atau slash \( / \) diawal tanda kurung lancip 
 

@@ -23,6 +23,7 @@
     * [Menambahkan Rounded Corner dengan border radius](sdas/menambahkan-margin-yang-berbeda-pada-sisi-elemen.md)
     * [image bulat dengan border radius](sdas/image-bulat-dengan-border-radius.md)
     * [Anchor elemen](sdas/anchor-elemen.md)
+    * [Nest kan elemen Anchor ke dalam paragraf](sdas/nest-kan-elemen-anchor-ke-dalam-paragraf.md)
   * [Responsive Design with Bootstrap](responsive-design-with-bootstrap.md)
   * jQuery
 

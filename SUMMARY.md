@@ -19,6 +19,7 @@
     * [Degradasi font](sdas/degradasi-font.md)
     * [Menambah Gambar di web](sdas/menambah-gambar-di-web.md)
     * [Ukuran gambar](sdas/ukuran-gambar.md)
+    * [Menambahkan Border](sdas/menambahkan-border.md)
   * [Responsive Design with Bootstrap](responsive-design-with-bootstrap.md)
   * jQuery
 

@@ -14,6 +14,9 @@
     * [Class CSS](sdas/class-css.md)
     * [Multiple Elemen dengan CSS Class](sdas/multiple-elemen-dengan-css-class.md)
     * [Font size](sdas/font-size.md)
+    * [Font Family](sdas/font-family.md)
+    * [Google Font](sdas/google-font.md)
+    * [Degradasi font](sdas/degradasi-font.md)
   * [Responsive Design with Bootstrap](responsive-design-with-bootstrap.md)
   * jQuery
 

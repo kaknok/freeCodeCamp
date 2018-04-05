@@ -12,6 +12,7 @@
     * [Merubah Warna Teks](sdas/merubah-warna-teks.md)
     * [CSS Selector](sdas/menggunakan-css-selector-utnuk-elemen-style.md)
     * [Class CSS](sdas/class-css.md)
+    * [Multiple Elemen dengan CSS Class](sdas/multiple-elemen-dengan-css-class.md)
   * [Responsive Design with Bootstrap](responsive-design-with-bootstrap.md)
   * jQuery
 

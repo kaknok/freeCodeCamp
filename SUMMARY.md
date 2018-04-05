@@ -20,6 +20,7 @@
     * [Menambah Gambar di web](sdas/menambah-gambar-di-web.md)
     * [Ukuran gambar](sdas/ukuran-gambar.md)
     * [Menambahkan Border](sdas/menambahkan-border.md)
+    * Menambahkan Margin yang berbeda pada sisi elemen
   * [Responsive Design with Bootstrap](responsive-design-with-bootstrap.md)
   * jQuery
 

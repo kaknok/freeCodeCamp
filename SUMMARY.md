@@ -17,6 +17,7 @@
     * [Font Family](sdas/font-family.md)
     * [Google Font](sdas/google-font.md)
     * [Degradasi font](sdas/degradasi-font.md)
+    * [Menambah Gambar di web](sdas/menambah-gambar-di-web.md)
   * [Responsive Design with Bootstrap](responsive-design-with-bootstrap.md)
   * jQuery
 

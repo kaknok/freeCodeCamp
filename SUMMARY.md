@@ -24,7 +24,7 @@
     * [image bulat dengan border radius](sdas/image-bulat-dengan-border-radius.md)
     * [Anchor elemen](sdas/anchor-elemen.md)
     * [Nest kan elemen Anchor ke dalam paragraf](sdas/nest-kan-elemen-anchor-ke-dalam-paragraf.md)
-    * Membuat Link mati dengan Hash \(\#\) simbol
+    * [Membuat Link mati dengan Hash \(\#\) simbol](sdas/membuat-link-mati-dengan-hash-simbol.md)
   * [Responsive Design with Bootstrap](responsive-design-with-bootstrap.md)
   * jQuery
 

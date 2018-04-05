@@ -4,7 +4,7 @@ Kita bisa menggantinya dengan merubah style dari elemen _**h2**_.
 
 Style yang bertugas untuk mengganti warna dari sebuah teks elemen adalah "color"
 
-disini kita akan merubah teks elemen _**h2 **_menjadi biru:
+disini kita akan merubah teks elemen \_**h2 **\_menjadi biru:
 
 > &lt;h2 style="color: blue"&gt;CatPhotoApp&lt;/h2&gt;
 

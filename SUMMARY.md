@@ -10,7 +10,8 @@
     * [Placeholder](sdas/placeholder.md)
     * [Hapus Elemen HTML](sdas/hapus-elemen-html.md)
     * [Merubah Warna Teks](sdas/merubah-warna-teks.md)
-    * [Menggunakan CSS Selector utnuk Elemen Style](sdas/menggunakan-css-selector-utnuk-elemen-style.md)
+    * [CSS Selector](sdas/menggunakan-css-selector-utnuk-elemen-style.md)
+    * [Class CSS](sdas/class-css.md)
   * [Responsive Design with Bootstrap](responsive-design-with-bootstrap.md)
   * jQuery
 

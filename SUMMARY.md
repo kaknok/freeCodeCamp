@@ -25,6 +25,9 @@
     * [Anchor elemen](sdas/anchor-elemen.md)
     * [Nest kan elemen Anchor ke dalam paragraf](sdas/nest-kan-elemen-anchor-ke-dalam-paragraf.md)
     * [Membuat Link mati dengan Hash \(\#\) simbol](sdas/membuat-link-mati-dengan-hash-simbol.md)
+    * . . .
+    * . . .
+    * [Applied Visual Design: Add a box-shadow to a Card-like Element](sdas/applied-visual-design-add-a-box-shadow-to-a-card-like-element.md)
   * [Responsive Design with Bootstrap](responsive-design-with-bootstrap.md)
   * jQuery
 

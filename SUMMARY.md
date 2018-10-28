@@ -32,6 +32,8 @@
     * [Applied Visual Design: Use the text-transform Property to Make Text Uppercase](sdas/applied-visual-design-use-the-text-transform-property-to-make-text-uppercase.md)
     * [Applied Visual Design: Set the font-size for Multiple Heading Elements](sdas/applied-visual-design-set-the-font-size-for-multiple-heading-elements.md)
     * [Applied Visual Design: Set the font-weight for Multiple Heading Elements](sdas/applied-visual-design-set-the-font-weight-for-multiple-heading-elements.md)
+    * [Applied Visual Design: Set the font-size of Paragraph Text](sdas/applied-visual-design-set-the-font-size-of-paragraph-text.md)
+    * [Applied Visual Design: Set the line-height of Paragraphs](sdas/applied-visual-design-set-the-line-height-of-paragraphs.md)
   * [Responsive Design with Bootstrap](responsive-design-with-bootstrap.md)
   * jQuery
 

@@ -35,6 +35,7 @@
     * [Applied Visual Design: Set the font-size of Paragraph Text](sdas/applied-visual-design-set-the-font-size-of-paragraph-text.md)
     * [Applied Visual Design: Set the line-height of Paragraphs](sdas/applied-visual-design-set-the-line-height-of-paragraphs.md)
     * [Applied Visual Design: Adjust the Hover State of an Anchor Tag](sdas/applied-visual-design-adjust-the-hover-state-of-an-anchor-tag.md)
+    * [Applied Visual Design: Change an Element's Relative Position](sdas/applied-visual-design-change-an-elements-relative-position.md)
   * [Responsive Design with Bootstrap](responsive-design-with-bootstrap.md)
   * jQuery
 

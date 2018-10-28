@@ -10,7 +10,5 @@ a:hover {
 }
 ```
 
-
-
-
+jadi nanti kalo tag anchor nya di hover, maka akan berubah warna tulisannya menjadi biru
 

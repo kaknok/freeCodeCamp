@@ -30,6 +30,7 @@
     * [Applied Visual Design: Add a box-shadow to a Card-like Element](sdas/applied-visual-design-add-a-box-shadow-to-a-card-like-element.md)
     * [Applied Visual Design: Decrease the Opacity of an Element](sdas/applied-visual-design-decrease-the-opacity-of-an-element.md)
     * [Applied Visual Design: Use the text-transform Property to Make Text Uppercase](sdas/applied-visual-design-use-the-text-transform-property-to-make-text-uppercase.md)
+    * [Applied Visual Design: Set the font-size for Multiple Heading Elements](sdas/applied-visual-design-set-the-font-size-for-multiple-heading-elements.md)
   * [Responsive Design with Bootstrap](responsive-design-with-bootstrap.md)
   * jQuery
 

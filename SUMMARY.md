@@ -34,6 +34,7 @@
     * [Applied Visual Design: Set the font-weight for Multiple Heading Elements](sdas/applied-visual-design-set-the-font-weight-for-multiple-heading-elements.md)
     * [Applied Visual Design: Set the font-size of Paragraph Text](sdas/applied-visual-design-set-the-font-size-of-paragraph-text.md)
     * [Applied Visual Design: Set the line-height of Paragraphs](sdas/applied-visual-design-set-the-line-height-of-paragraphs.md)
+    * [Applied Visual Design: Adjust the Hover State of an Anchor Tag](sdas/applied-visual-design-adjust-the-hover-state-of-an-anchor-tag.md)
   * [Responsive Design with Bootstrap](responsive-design-with-bootstrap.md)
   * jQuery
 

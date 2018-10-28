@@ -1,4 +1,4 @@
-#### Desain Visual Terapan: Menurunkan Opacity of an Element
+#### Desain Visual Terapan: Menurunkan Opacity sebuah Element
 
 Properti opacity dalam CSS digunakan untuk mengatur opasitas, atau sebaliknya, transparansi untuk suatu item.
 

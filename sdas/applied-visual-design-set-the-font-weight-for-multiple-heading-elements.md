@@ -2,7 +2,5 @@
 
 
 
-
-
-
+Properti **font-weight** menentukan seberapa tebal atau tipis karakter di bagian teks.
 

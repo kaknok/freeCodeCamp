@@ -36,6 +36,7 @@
     * [Applied Visual Design: Set the line-height of Paragraphs](sdas/applied-visual-design-set-the-line-height-of-paragraphs.md)
     * [Applied Visual Design: Adjust the Hover State of an Anchor Tag](sdas/applied-visual-design-adjust-the-hover-state-of-an-anchor-tag.md)
     * [Applied Visual Design: Change an Element's Relative Position](sdas/applied-visual-design-change-an-elements-relative-position.md)
+    * [Applied Visual Design: Move a Relatively Positioned Element with CSS Offsets](sdas/applied-visual-design-move-a-relatively-positioned-element-with-css-offsets.md)
   * [Responsive Design with Bootstrap](responsive-design-with-bootstrap.md)
   * jQuery
 

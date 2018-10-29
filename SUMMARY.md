@@ -57,6 +57,7 @@
     * [Applied Visual Design: Create a Graphic Using CSS](sdas/applied-visual-design-create-a-graphic-using-css.md)
     * [Applied Visual Design: Create a More Complex Shape Using CSS and HTML](sdas/applied-visual-design-create-a-more-complex-shape-using-css-and-html.md)
     * [Applied Visual Design: Learn How the CSS @keyframes and animation Properties Work](sdas/applied-visual-design-learn-how-the-css-keyframes-and-animation-properties-work.md)
+    * [Applied Visual Design: Use CSS Animation to Change the Hover State of a Button](sdas/applied-visual-design-use-css-animation-to-change-the-hover-state-of-a-button.md)
   * [Responsive Design with Bootstrap](responsive-design-with-bootstrap.md)
   * jQuery
 

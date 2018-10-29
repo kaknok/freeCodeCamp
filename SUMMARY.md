@@ -41,6 +41,7 @@
     * [Applied Visual Design: Lock an Element to the Browser Window with Fixed Positioning](sdas/applied-visual-design-lock-an-element-to-the-browser-window-with-fixed-positioning.md)
     * [Applied Visual Design: Push Elements Left or Right with the float Property](sdas/applied-visual-design-push-elements-left-or-right-with-the-float-property.md)
     * [Applied Visual Design: Change the Position of Overlapping Elements with the z-index Property](sdas/applied-visual-design-change-the-position-of-overlapping-elements-with-the-z-index-property.md)
+    * [Applied Visual Design: Center an Element Horizontally Using the margin Property](sdas/applied-visual-design-center-an-element-horizontally-using-the-margin-property.md)
   * [Responsive Design with Bootstrap](responsive-design-with-bootstrap.md)
   * jQuery
 

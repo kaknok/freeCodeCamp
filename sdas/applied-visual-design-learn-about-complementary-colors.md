@@ -20,3 +20,44 @@ Catatan
 
 Untuk semua tantangan warna: Menggunakan warna dapat menjadi cara ampuh untuk menambahkan minat visual ke suatu halaman. Namun, warna saja tidak boleh digunakan sebagai satu-satunya cara untuk menyampaikan informasi penting karena pengguna dengan gangguan penglihatan mungkin tidak memahami konten itu. Masalah ini akan dibahas lebih detail dalam tantangan Aksesibilitas Terapan.
 
+
+
+#### cosol:
+
+Change the`background-color`property of the`blue`and`yellow`classes to their respective colors. Notice how the colors look different next to each other than they do compared against the white background.
+
+The`div`element with class`blue`should have a`background-color`of blue.
+
+The`div`element with class`yellow`should have a`background-color`of yellow.
+
+```css
+<style>
+  body {
+    background-color: #FFFFFF;
+  }
+  .blue {
+    background-color: #000000;
+  }
+  .yellow {
+    background-color: #000000;
+  }
+  div {
+    display: inline-block;
+    height: 100px;
+    width: 100px;
+  }
+</style>
+<div class="blue"></div>
+<div class="yellow"></div>
+```
+
+![](/assets/bl1.jpg)
+
+
+
+#### jasol:
+
+
+
+
+

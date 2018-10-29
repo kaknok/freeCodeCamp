@@ -9,17 +9,13 @@ CoSol:
 ```
 Lock the #searchbar element to the top-right of its section parent by declaring its position as absolute. 
 Give it top and right offsets of 50 pixels each.
-
-
 ```
 
 ![](/assets/ex1.jpg)
 
-
-
 JaSol:
 
-```
+```css
 <style>
   #searchbar {
     position: absolute;

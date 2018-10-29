@@ -74,5 +74,5 @@ The`div`element with class`yellow`should have a`background-color`of yellow.
 <div class="yellow"></div>
 ```
 
-
+![](/assets/bl2.jpg)
 

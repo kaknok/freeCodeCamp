@@ -19,3 +19,24 @@ Untuk **: :before** and **: :after** pseudo-elements berfungsi dengan benar, mer
 
 Dalam contoh di atas, elemen dengan kelas hati memiliki **: :before** pseudo-elemen yang menghasilkan persegi panjang kuning dengan tinggi dan lebar 50px dan 70px, masing-masing. Persegi panjang ini memiliki sudut bulat karena radius batas 25% dan diposisikan benar-benar pada 5px dari kiri dan 50px di atas bagian atas elemen.
 
+
+
+#### cosol:
+
+```
+Transform the element on the screen to a heart. 
+In the heart ::after selector, change the background-color to pink and the border-radius to 50%.
+
+Next, target the element with the class heart (just heart) and fill in the transform property. 
+Use the rotate() function with -45 degrees. (rotate() works the same way that skewX() and skewY() do).
+
+Finally, in the heart ::before selector, set its content property to an empty string.
+
+The background-color property of the heart ::after selector should be pink.
+The border-radius of the heart ::after selector should be 50%.
+The transform property for the heart class should use a rotate() function set to -45 degrees.
+The content of the heart ::before selector should be an empty string.
+```
+
+
+

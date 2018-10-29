@@ -4,7 +4,7 @@ Kali ini akan membahas penggunaan dari **pseudo-class**. **pseudo-class** adalah
 
 Sebagai contoh, styling dari tag **anchor** dapat diubah untuk hover-nya menggunakan: _hover_ pseudo-class selector. Berikut CSS untuk mengubah warna tag anchor menjadi merah selama statusnya mengambang.
 
-```
+```css
 a:hover {
   color: red;
 }

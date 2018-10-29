@@ -55,6 +55,7 @@
     * [Applied Visual Design: Use the CSS Transform Property skewX to Skew an Element Along the X-Axis](sdas/applied-visual-design-use-the-css-transform-property-skewx-to-skew-an-element-along-the-x-axis.md)
     * [Applied Visual Design: Use the CSS Transform Property skewY to Skew an Element Along the Y-Axis](sdas/applied-visual-design-use-the-css-transform-property-skewy-to-skew-an-element-along-the-y-axis.md)
     * [Applied Visual Design: Create a Graphic Using CSS](sdas/applied-visual-design-create-a-graphic-using-css.md)
+    * [Applied Visual Design: Create a More Complex Shape Using CSS and HTML](sdas/applied-visual-design-create-a-more-complex-shape-using-css-and-html.md)
   * [Responsive Design with Bootstrap](responsive-design-with-bootstrap.md)
   * jQuery
 

@@ -15,7 +15,7 @@ The animation-iteration-count property for the heart class should have a value o
 The animation-iteration-count property for the back class should have a value of infinite.
 ```
 
-```
+```css
 <style>
   .back {
     position: fixed;
@@ -28,7 +28,7 @@ The animation-iteration-count property for the back class should have a value of
     background: white;
     animation-name: backdiv;
     animation-duration: 1s; 
-    
+
   }
   .heart {
     position: absolute;
@@ -43,7 +43,7 @@ The animation-iteration-count property for the back class should have a value of
     transform: rotate(-45deg);
     animation-name: beat;
     animation-duration: 1s;
-    
+
   }.heart:after {
     background-color: pink;
     content: "";

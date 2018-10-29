@@ -8,8 +8,6 @@ Untuk membuat objek bulat, properti **border-radius** harus disetel ke nilai 50%
 
 Anda mungkin ingat dari tantangan sebelumnya bahwa properti **box-shadow** membutuhkan nilai untuk **offset-x,** **offset-y**, **blur-**radius, **spread-radius** dan nilai warna dalam urutan itu. Nilai-nilai **blur-radius** dan **spread-radius** adalah opsional.
 
-
-
 #### cosol:
 
 ```
@@ -23,6 +21,36 @@ The value of the background-color property should be set to transparent.
 The value of the border-radius property should be set to 50%.
 The value of the box-shadow property should be set to 25px for offset-x, 
     10px for offset-y, 0 for blur-radius, 0 for spread-radius, and finally blue for the color.
+```
+
+```css
+<style>
+.center
+{
+  position: absolute;
+  margin: auto;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  width: 100px;
+  height: 100px;
+
+  background-color: blue;
+  border-radius: 0px;
+  box-shadow: 25px 10px 10px 10px green; 
+}
+
+</style>
+<div class="center"></div>
+```
+
+![](/assets/aaw.jpg)
+
+#### jasol:
+
+```
+
 ```
 
 

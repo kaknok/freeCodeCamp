@@ -22,11 +22,11 @@ Untuk semua tantangan warna: Menggunakan warna dapat menjadi cara ampuh untuk me
 
 #### cosol:
 
-Change the`background-color`property of the`blue`and`yellow`classes to their respective colors. Notice how the colors look different next to each other than they do compared against the white background.
+`Change thebackground-colorproperty of theblueandyellowclasses to their respective colors. Notice how the colors look different next to each other than they do compared against the white background.`
 
-The`div`element with class`blue`should have a`background-color`of blue.
+`Thedivelement with classblueshould have abackground-colorof blue.`
 
-The`div`element with class`yellow`should have a`background-color`of yellow.
+`Thedivelement with classyellowshould have abackground-colorof yellow.`
 
 ```css
 <style>

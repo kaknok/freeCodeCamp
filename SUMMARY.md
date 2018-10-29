@@ -37,6 +37,7 @@
     * [Applied Visual Design: Adjust the Hover State of an Anchor Tag](sdas/applied-visual-design-adjust-the-hover-state-of-an-anchor-tag.md)
     * [Applied Visual Design: Change an Element's Relative Position](sdas/applied-visual-design-change-an-elements-relative-position.md)
     * [Applied Visual Design: Move a Relatively Positioned Element with CSS Offsets](sdas/applied-visual-design-move-a-relatively-positioned-element-with-css-offsets.md)
+    * [Applied Visual Design: Lock an Element to its Parent with Absolute Positioning](sdas/applied-visual-design-lock-an-element-to-its-parent-with-absolute-positioning.md)
   * [Responsive Design with Bootstrap](responsive-design-with-bootstrap.md)
   * jQuery
 

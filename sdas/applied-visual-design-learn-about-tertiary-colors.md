@@ -14,8 +14,6 @@ Berikut tiga warna yang dibuat menggunakan skema perpecahan-komplemen:
 | cyan | \#00FFFF |
 | raspberry | \#FF007D |
 
-
-
 #### cosol:
 
 ```
@@ -26,6 +24,8 @@ The div element with class orange should have a background-color of orange.
 The div element with class cyan should have a background-color of cyan.
 The div element with class raspberry should have a background-color of raspberry.
 ```
+
+
 
 
 

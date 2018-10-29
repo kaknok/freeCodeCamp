@@ -17,7 +17,5 @@ Salah satu bentuk paling populer di dunia adalah bentuk hati, dan dalam tantanga
 
 Untuk **: :before** and **: :after** pseudo-elements berfungsi dengan benar, mereka harus memiliki properti konten yang didefinisikan. Properti ini biasanya digunakan untuk menambahkan hal-hal seperti foto atau teks ke elemen yang dipilih. Ketika **: :before** and     **: :after** pseudo-elements digunakan untuk membuat bentuk, properti konten masih diperlukan, tetapi itu diatur ke string kosong.
 
-
-
-Dalam contoh di atas, elemen dengan kelas hati memiliki :: sebelum pseudo-elemen yang menghasilkan persegi panjang kuning dengan tinggi dan lebar 50px dan 70px, masing-masing. Persegi panjang ini memiliki sudut bulat karena radius batas 25% dan diposisikan benar-benar pada 5px dari kiri dan 50px di atas bagian atas elemen.
+Dalam contoh di atas, elemen dengan kelas hati memiliki **: :before** pseudo-elemen yang menghasilkan persegi panjang kuning dengan tinggi dan lebar 50px dan 70px, masing-masing. Persegi panjang ini memiliki sudut bulat karena radius batas 25% dan diposisikan benar-benar pada 5px dari kiri dan 50px di atas bagian atas elemen.
 

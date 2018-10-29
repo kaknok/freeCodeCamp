@@ -1,12 +1,8 @@
 #### Desain Visual Terapan: Tetapkan ukuran font untuk Beberapa Heading Elements
 
+Properti **font-size** digunakan untuk menentukan seberapa besar teks dalam elemen yang diberikan. Aturan ini dapat digunakan untuk beberapa elemen untuk menciptakan konsistensi visual teks pada halaman.
 
-
-Properti **font-size** digunakan untuk menentukan seberapa besar teks dalam elemen yang diberikan. Aturan ini dapat digunakan untuk beberapa elemen untuk menciptakan konsistensi visual teks pada halaman. 
-
-
-
-```
+```css
 ex:
 <h1>This is h1 text</h1>
 <h2>This is h2 text</h2>

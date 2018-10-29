@@ -61,6 +61,7 @@
     * [Applied Visual Design: Modify Fill Mode of an Animation](sdas/applied-visual-design-modify-fill-mode-of-an-animation.md)
     * [Applied Visual Design: Create Movement Using CSS Animation](sdas/applied-visual-design-create-movement-using-css-animation.md)
     * [Applied Visual Design: Create Visual Direction by Fading an Element from Left to Right](sdas/applied-visual-design-create-visual-direction-by-fading-an-element-from-left-to-right.md)
+    * [Applied Visual Design: Animate Elements Continually Using an Infinite Animation Count](sdas/applied-visual-design-animate-elements-continually-using-an-infinite-animation-count.md)
   * [Responsive Design with Bootstrap](responsive-design-with-bootstrap.md)
   * jQuery
 

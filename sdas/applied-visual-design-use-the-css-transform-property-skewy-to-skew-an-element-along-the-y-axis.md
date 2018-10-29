@@ -2,8 +2,6 @@
 
 Mengingat bahwa skewX \(\) fungsi skews elemen yang dipilih sepanjang X-axis dengan tingkat tertentu, maka tidak mengherankan bahwa properti skewY \(\) skews elemen di sepanjang Y \(vertikal\) axis.
 
-
-
 #### casol:
 
 ```
@@ -12,7 +10,7 @@ Skew the element with the id of top -10 degrees along the Y-axis by using the tr
 The element with id top should be skewed by -10 degrees along its Y-axis.
 ```
 
-```
+```css
 <style>
   div { 
     width: 70%;
@@ -21,7 +19,7 @@ The element with id top should be skewed by -10 degrees along its Y-axis.
   }
   #top {
     background-color: red;
-    
+
   }
   #bottom {
     background-color: blue;
@@ -35,11 +33,7 @@ The element with id top should be skewed by -10 degrees along its Y-axis.
 
 ![](/assets/sol.jpg)
 
-
-
 #### jasol:
-
-
 
 
 

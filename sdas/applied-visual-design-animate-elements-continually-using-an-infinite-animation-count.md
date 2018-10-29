@@ -54,8 +54,6 @@ The animation-iteration-count property should have a value of infinite.
 
 ###### ![](/assets/bundar.jpg) : bulatan ini akan mantul2 3x, tergantung dari animation-iteration-count nya di set berapa valuenya
 
-
-
 #### jasol:
 
 ```css
@@ -92,6 +90,8 @@ The animation-iteration-count property should have a value of infinite.
 </style>
 <div id="ball"></div>
 ```
+
+###### ![](/assets/bundar.jpg): nah kalo animation-iteration-count nya di set ke infinite / tidak terbatas, maka bola akan mantul2 trus
 
 
 

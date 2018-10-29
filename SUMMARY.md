@@ -60,6 +60,7 @@
     * [Applied Visual Design: Use CSS Animation to Change the Hover State of a Button](sdas/applied-visual-design-use-css-animation-to-change-the-hover-state-of-a-button.md)
     * [Applied Visual Design: Modify Fill Mode of an Animation](sdas/applied-visual-design-modify-fill-mode-of-an-animation.md)
     * [Applied Visual Design: Create Movement Using CSS Animation](sdas/applied-visual-design-create-movement-using-css-animation.md)
+    * [Applied Visual Design: Create Visual Direction by Fading an Element from Left to Right](sdas/applied-visual-design-create-visual-direction-by-fading-an-element-from-left-to-right.md)
   * [Responsive Design with Bootstrap](responsive-design-with-bootstrap.md)
   * jQuery
 

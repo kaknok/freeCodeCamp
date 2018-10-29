@@ -1,4 +1,6 @@
-## Desain Visual Terapan: Gunakan CSS Transform Property miring ke Skew an Elemen Sepanjang Y-Axis
+```
+Desain Visual Terapan: Gunakan CSS Transform Property miring ke Skew an Elemen Sepanjang Y-Axis
+```
 
 Mengingat bahwa skewX \(\) fungsi skews elemen yang dipilih sepanjang X-axis dengan tingkat tertentu, maka tidak mengherankan bahwa properti skewY \(\) skews elemen di sepanjang Y \(vertikal\) axis.
 
@@ -35,5 +37,26 @@ The element with id top should be skewed by -10 degrees along its Y-axis.
 
 #### jasol:
 
+```css
+<style>
+  div { 
+    width: 70%;
+    height: 100px;
+    margin: 50px auto;
+  }
+  #top {
+    background-color: red;
+    transform: skewY(-10deg);
+  }
+  #bottom {
+    background-color: blue;
+    transform: skewX(24deg);
+  }
+</style>
 
+<div id="top"></div>
+<div id="bottom"></div>
+```
+
+![](/assets/ass.jpg)
 

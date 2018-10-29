@@ -39,8 +39,6 @@ The element with class first should have a z-index value of 2.
 
 ![](/assets/red.jpg)
 
-
-
 #### jasol:
 
 ```
@@ -50,7 +48,7 @@ The element with class first should have a z-index value of 2.
         height: 200px;
         margin-top: 20px;
       }
-      
+
       .first {
         background-color: red;
         position: absolute;
@@ -64,10 +62,10 @@ The element with class first should have a z-index value of 2.
         z-index: 1;
       }
 </style>
-    
+
 <div class="first"></div>
 <div class="second"></div>
 ```
 
-
+![](/assets/redd.jpg)
 

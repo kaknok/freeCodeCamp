@@ -4,7 +4,7 @@ Ketika elemen diposisikan overlap / tumpang tindih, elemen yang datang kemudian 
 
 #### cosol:
 
-```
+```css
 Add a z-index property to the element with the class name of first (the red rectangle) 
 and set it to a value of 2 so it covers the other element (blue rectangle).
 
@@ -41,7 +41,7 @@ The element with class first should have a z-index value of 2.
 
 #### jasol:
 
-```
+```css
 <style>
       div {
         width: 60%;

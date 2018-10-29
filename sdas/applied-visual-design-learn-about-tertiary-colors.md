@@ -30,27 +30,26 @@ The div element with class raspberry should have a background-color of raspberry
   body {
     background-color: #FFFFFF;
   }
-  
+
   .orange {
     background-color: #000000;
   }
-  
+
   .cyan {
     background-color: #000000;
   }
-  
+
   .raspberry {
     background-color: #000000;
   }
-  
-    
+
   div {
     height: 100px;
     width: 100px;
     margin-bottom: 5px;
   }
 </style>
-  
+
 <div class="orange"></div>
 <div class="cyan"></div>
 <div class="raspberry"></div>

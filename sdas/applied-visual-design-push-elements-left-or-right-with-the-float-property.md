@@ -50,8 +50,6 @@ The element with id right should have a float value of right.
 
 ![](/assets/eex1.jpg)
 
-
-
 ###### jasol:
 
 ```
@@ -88,6 +86,8 @@ The element with id right should have a float value of right.
   </style>
 </head>
 ```
+
+![](/assets/eex2.jpg)
 
 
 

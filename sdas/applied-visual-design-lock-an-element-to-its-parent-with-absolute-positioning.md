@@ -4,15 +4,18 @@ Pilihan berikutnya untuk properti posisi CSS adalah mutlak, yang mengunci elemen
 
 Satu nuansa dengan posisi absolut adalah bahwa ia akan dikunci relatif terhadap leluhur terdekatnya. Jika Anda lupa menambahkan aturan posisi ke item induk, \(ini biasanya dilakukan menggunakan posisi: relatif;\), browser akan terus mencari rantai dan akhirnya default ke tag body.
 
-
-
 CoSol:
 
 ```
 Lock the #searchbar element to the top-right of its section parent by declaring its position as absolute. 
 Give it top and right offsets of 50 pixels each.
 
+
 ```
+
+![](/assets/ex1.jpg)
+
+
 
 JaSol:
 
@@ -22,8 +25,8 @@ JaSol:
     position: absolute;
     top: 50px;
     right: 50px;
-    
-    
+
+
   }
   <section>
     <form id="searchbar">
@@ -35,7 +38,5 @@ JaSol:
 </body>
 ```
 
-
-
-
+![](/assets/ex2.jpg)
 

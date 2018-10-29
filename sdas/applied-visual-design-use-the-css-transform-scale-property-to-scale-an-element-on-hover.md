@@ -2,8 +2,6 @@
 
 Properti **transform** memiliki berbagai fungsi yang memungkinkan Anda mengukur, memindahkan, memutar, miring, dll., Elemen Anda. Ketika digunakan dengan pseudo-class seperti **:hover** yang menentukan status suatu elemen tertentu, properti **transform** dapat dengan mudah menambah interaktivitas ke elemen Anda.
 
-
-
 Berikut ini contoh untuk menskalakan elemen paragraf ke 2,1 kali ukuran aslinya ketika pengguna mengarahkannya ke atasnya:
 
 ```css
@@ -34,8 +32,34 @@ The size of the div element should scale 1.1 times when the user hovers over it.
       #ffcccf
     );
   }
+
+
+
+</style>
+
+<div></div>
+```
+
+
+
+#### jasol:
+
+```css
+<style>
+  div { 
+    width: 70%;
+    height: 100px;
+    margin:  50px auto;
+    background: linear-gradient(
+      53deg,
+      #ccfffc,
+      #ffcccf
+    );
+  }
   
-  
+  div:hover {
+    transform: scale(1.1);
+  }
   
 </style>
 

@@ -13,11 +13,7 @@ p {
 
 Mengubah posisi elemen menjadi relatif tidak menghapusnya dari aliran normal - elemen lain di sekitarnya tetap berperilaku seolah-olah item itu berada di posisi defaultnya.
 
-
-
-Catatan
+Catatan:
 
 Pemosisian memberi Anda banyak fleksibilitas dan kuasa atas tata letak visual halaman. Sangat bagus untuk diingat bahwa tidak masalah posisi elemen, markup HTML yang mendasarinya harus diatur dan masuk akal ketika dibaca dari atas ke bawah. Ini adalah bagaimana pengguna dengan gangguan penglihatan \(yang bergantung pada alat bantu seperti pembaca layar\) mengakses konten Anda.
-
-
 

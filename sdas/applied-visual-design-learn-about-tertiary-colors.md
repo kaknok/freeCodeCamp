@@ -16,3 +16,16 @@ Berikut tiga warna yang dibuat menggunakan skema perpecahan-komplemen:
 
 
 
+#### cosol:
+
+```
+Change the background-color property of the orange, cyan, and raspberry classes to their respective colors. 
+Make sure to use the hex codes as orange and raspberry are not browser-recognized color names.
+
+The div element with class orange should have a background-color of orange.
+The div element with class cyan should have a background-color of cyan.
+The div element with class raspberry should have a background-color of raspberry.
+```
+
+
+

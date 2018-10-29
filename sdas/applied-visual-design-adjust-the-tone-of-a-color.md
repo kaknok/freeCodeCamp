@@ -59,22 +59,22 @@ The nav element should have a background-color of the adjusted cyan tone using t
 
 #### jasol:
 
-```
+```css
 <style>
   header {
     background-color: hsl(180, 90%, 35%);
     color: #FFFFFF;
   }
-  
+
   nav {
   background-color: hsl(180, 80%, 25%)
   }
-  
+
   h1 {
     text-indent: 10px;
     padding-top: 10px;
   }
-  
+
   nav ul {
     margin: 0px;
     padding: 5px 0px 5px 30px;
@@ -83,7 +83,7 @@ The nav element should have a background-color of the adjusted cyan tone using t
     display: inline;
     margin-right: 20px;
   }
-  
+
   a {
     text-decoration: none;
     color: inherit;
@@ -103,6 +103,4 @@ The nav element should have a background-color of the adjusted cyan tone using t
 ```
 
 ![](/assets/ea.jpg)
-
-
 

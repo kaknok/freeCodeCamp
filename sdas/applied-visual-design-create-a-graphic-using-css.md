@@ -49,9 +49,29 @@ The value of the box-shadow property should be set to 25px for offset-x,
 
 #### jasol:
 
+```css
+<style>
+.center
+{
+  position: absolute;
+  margin: auto;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  width: 100px;
+  height: 100px;
+  
+  background-color: transparent;
+  border-radius: 50%;
+  box-shadow: 25px 10px 0px 0px green; 
+}
+
+</style>
+<div class="center"></div>
 ```
 
-```
+![](/assets/turk.jpg)
 
 
 

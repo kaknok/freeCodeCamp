@@ -60,8 +60,6 @@ There should be one rule under @keyframes that changes the background-color to #
 
 ![](/assets/reg.jpg)
 
-
-
 #### jasol:
 
 ```
@@ -72,7 +70,7 @@ There should be one rule under @keyframes that changes the background-color to #
     background-color: #0F5897;
     padding: 5px 10px 8px 10px;
   }
-  
+
   button:hover {
     animation-name: background-color;
     animation-duration: 500ms;
@@ -82,11 +80,13 @@ There should be one rule under @keyframes that changes the background-color to #
       background-color: #4791d0;
     }
   }
-  
+
 </style>
-  
+
 <button>Register</button>
 ```
 
+![](/assets/reg.jpg)
 
+tombol diatas apabila di hover akan berubah warna..AHAHAHAHAHAHAAHA!!
 

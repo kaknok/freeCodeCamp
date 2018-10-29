@@ -4,8 +4,6 @@ Teknik pemosisian lainnya adalah memusatkan elemen blok secara horizontal. Salah
 
 Metode ini berfungsi untuk gambar juga. Gambar adalah elemen inline secara default, tetapi dapat diubah untuk memblokir elemen ketika Anda mengatur properti tampilan untuk diblokir.
 
-
-
 #### cosol:
 
 ```
@@ -18,11 +16,31 @@ The div should have a margin set to auto.
     background-color: blue;
     height: 100px;
     width: 100px;
-    
+
   }
 </style>
 <div></div>
 ```
+
+![](/assets/blue1.jpg)
+
+
+
+#### jasol:
+
+```
+<style>
+  div {
+    background-color: blue;
+    height: 100px;
+    width: 100px;
+    margin: auto;
+  }
+</style>
+<div></div>
+```
+
+![](/assets/blue2jpg)
 
 
 

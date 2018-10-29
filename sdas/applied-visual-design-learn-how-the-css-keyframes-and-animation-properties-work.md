@@ -25,8 +25,6 @@ Untuk menganimasikan suatu elemen, Anda perlu mengetahui tentang properti animas
 
 Untuk elemen dengan id **anim**, cuplikan kode di atas menyetel **animation-name** menjadi **colorful** dan menyetel **animation-duration** menjadi 3 detik. Kemudian aturan **@keyframes** menautkan ke properti animasi dengan nama **colorful**. Ini menetapkan warna ke biru di awal animasi \(0%\) yang akan bertransisi menjadi kuning pada akhir animasi \(100%\). Anda tidak terbatas hanya pada transisi awal-akhir, Anda dapat mengatur properti untuk elemen untuk persentase antara 0% dan 100%.
 
-
-
 #### cosol:
 
 ```
@@ -40,7 +38,7 @@ The element with id of rect should have an animation-duration property with a va
 The @keyframes rule should use the animation-name of rainbow.
 The @keyframes rule for rainbow should use a background-color of blue at 0%.
 The @keyframes rule for rainbow should use a background-color of green at 50%.
-The @keyframes rule for rainbow should use a background-color of yellow at 100%. 
+The @keyframes rule for rainbow should use a background-color of yellow at 100%.
 ```
 
 ```css
@@ -54,13 +52,51 @@ The @keyframes rule for rainbow should use a background-color of yellow at 100%.
   }
 
   #rect {
-    
+
+
+  }
+
+
+
+
+</style>
+<div id="rect"></div>
+```
+
+                                                             ![](/assets/ab.jpg)
+
+#### jasol:
+
+```css
+<style>
+  div {
+    height: 40px;
+    width: 70%;
+    background: black;
+    margin: 50px auto;
+    border-radius: 5px;
+  }
+
+  #rect {
+    animation-name: rainbow;
+    animation-duration: 4s;
+
     
   }
-  
-  
-  
-  
+ 
+  @keyframes rainbow {
+    0% {
+      background-color: blue;
+    }
+    50%{
+     background-color: green;  
+    }
+    100%{
+      background-color: yellow;
+    }
+    
+  }
+
 </style>
 <div id="rect"></div>
 ```

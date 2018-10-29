@@ -6,7 +6,7 @@ Metode ini berfungsi untuk gambar juga. Gambar adalah elemen inline secara defau
 
 #### cosol:
 
-```
+```css
 Center the div on the page by adding a margin property with a value of auto.
 
 The div should have a margin set to auto.
@@ -24,11 +24,9 @@ The div should have a margin set to auto.
 
 ![](/assets/blue1.jpg)
 
-
-
 #### jasol:
 
-```
+```css
 <style>
   div {
     background-color: blue;
@@ -41,6 +39,4 @@ The div should have a margin set to auto.
 ```
 
 ![](/assets/blue2jpg)
-
-
 

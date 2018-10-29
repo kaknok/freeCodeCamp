@@ -8,8 +8,6 @@ Ini dapat dilakukan dengan menyetel properti **animation-fill-mode** ke **forwar
 animation-fill-mode: forwards;
 ```
 
-
-
 #### cosol:
 
 ```
@@ -31,7 +29,7 @@ button:hover should have a animation-fill-mode property with a value of forwards
     animation-name: background-color;
     animation-duration: 500ms;
     /* add your code below this line */
-    
+
     /* add your code above this line */
   }
   @keyframes background-color {
@@ -44,8 +42,6 @@ button:hover should have a animation-fill-mode property with a value of forwards
 ```
 
 ![](/assets/reg.jpg) : tombol ini kalo di hover akan berganti warna selama 5detik \( karna di setting 500ms. 500ms = 5 detik\)
-
-
 
 #### jasol:
 
@@ -73,7 +69,5 @@ button:hover should have a animation-fill-mode property with a value of forwards
 <button>Register</button>
 ```
 
-
-
-
+![](/assets/reg.jpg): nah kalo tombol ini di hover, maka warna akan berubah selama tidak pindah hover MUAHAHAHAHAHAHAHA~
 

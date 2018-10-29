@@ -2,8 +2,6 @@
 
 Tantangan Complementary Colors menunjukkan bahwa warna yang berseberangan pada roda warna dapat membuat satu sama lain tampak lebih hidup saat diletakkan berdampingan. Namun, kontras visual yang kuat dapat menggetarkan jika digunakan secara berlebihan di situs web, dan terkadang dapat membuat teks lebih sulit dibaca jika ditempatkan pada latar belakang berwarna komplementer. Dalam prakteknya, salah satu warna biasanya dominan dan pelengkap digunakan untuk membawa perhatian visual ke konten tertentu pada halaman.
 
-
-
 #### cosol:
 
 ```
@@ -68,6 +66,12 @@ The button element should have a background-color of #FF790E.
 <br>
 <footer>&copy; 2018 FCC Kitchen</footer>
 ```
+
+![](/assets/cook1.jpg)
+
+
+
+#### jasol:
 
 
 

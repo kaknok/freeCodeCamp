@@ -19,8 +19,6 @@ Untuk **: :before** and **: :after** pseudo-elements berfungsi dengan benar, mer
 
 Dalam contoh di atas, elemen dengan kelas hati memiliki **: :before** pseudo-elemen yang menghasilkan persegi panjang kuning dengan tinggi dan lebar 50px dan 70px, masing-masing. Persegi panjang ini memiliki sudut bulat karena radius batas 25% dan diposisikan benar-benar pada 5px dari kiri dan 50px di atas bagian atas elemen.
 
-
-
 #### cosol:
 
 ```
@@ -36,6 +34,34 @@ The background-color property of the heart ::after selector should be pink.
 The border-radius of the heart ::after selector should be 50%.
 The transform property for the heart class should use a rotate() function set to -45 degrees.
 The content of the heart ::before selector should be an empty string.
+```
+
+```css
+<style>
+.heart {
+  position: absolute;
+  margin: auto;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  background-color: pink;
+  height: 50px;
+  top: 0px;
+  left: 25px;
+}
+.heart::before {
+  content: ;
+  background-color: pink;
+  border-radius: 50%;
+  position: absolute;
+  width: 50px;
+  height: 50px;
+  top: -25px;
+  left: 0px;
+}
+</style>
+<div class = "heart"></div>
 ```
 
 

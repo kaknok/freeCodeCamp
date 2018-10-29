@@ -87,7 +87,5 @@ The div element with class raspberry should have a background-color of raspberry
 <div class="raspberry"></div>
 ```
 
-
-
-
+![](/assets/sa1.jpg)
 

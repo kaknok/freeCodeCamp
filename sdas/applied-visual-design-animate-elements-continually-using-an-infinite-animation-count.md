@@ -1,6 +1,6 @@
 ## Desain Visual Terapan: Elemen Animate Terus Menggunakan Jumlah Animasi Tak Terbatas
 
-Tantangan sebelumnya meliputi cara menggunakan beberapa properti animasi dan aturan @keyframes. Properti animasi lain adalah animation-iteration-count, yang memungkinkan Anda untuk mengontrol berapa kali Anda ingin mengulang melalui animasi. Inilah contohnya: 
+Tantangan sebelumnya meliputi cara menggunakan beberapa properti animasi dan aturan @keyframes. Properti animasi lain adalah animation-iteration-count, yang memungkinkan Anda untuk mengontrol berapa kali Anda ingin mengulang melalui animasi. Inilah contohnya:
 
 ```css
 animation-iteration-count: 3;
@@ -17,7 +17,7 @@ change the animation-iteration-count property to infinite.
 The animation-iteration-count property should have a value of infinite.
 ```
 
-```
+```css
 <style>
 
   #ball {

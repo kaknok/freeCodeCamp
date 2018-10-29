@@ -53,5 +53,26 @@ The`div`element with class`yellow`should have a`background-color`of yellow.
 
 #### jasol:
 
+```css
+<style>
+  body {
+    background-color: #FFFFFF;
+  }
+  .blue {
+    background-color: #0000FF;
+  }
+  .yellow {
+    background-color: #FFFF00;
+  }
+  div {
+    display: inline-block;
+    height: 100px;
+    width: 100px;
+  }
+</style>
+<div class="blue"></div>
+<div class="yellow"></div>
+```
+
 
 

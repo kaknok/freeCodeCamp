@@ -2,9 +2,7 @@
 
 Alat pemosisian berikutnya tidak benar-benar menggunakan **position**, tetapi menetapkan properti **float** dari suatu elemen. Elemen mengambang dikeluarkan dari aliran normal dokumen dan didorong ke **left** atau **right** elemen induknya yang mengandung. Ini biasanya digunakan dengan properti **width** untuk menentukan berapa banyak ruang horizontal yang dibutuhkan elemen melayang.
 
-
-
-cosol:
+###### cosol:
 
 ```
 The given markup would work well as a two-column layout, 
@@ -19,11 +17,11 @@ The element with id right should have a float value of right.
 <head>
   <style>
   #left {
-    
+
     width: 50%;
   }
   #right {
-    
+
     width: 40%;
   }
   aside, section {
@@ -35,11 +33,52 @@ The element with id right should have a float value of right.
 <head>
   <style>
   #left {
-    
+
     width: 50%;
   }
   #right {
-    
+
+    width: 40%;
+  }
+  aside, section {
+    padding: 2px;
+    background-color: #ccc;
+  }
+  </style>
+</head>
+```
+
+![](/assets/eex1.jpg)
+
+
+
+###### jasol:
+
+```
+<head>
+  <style>
+  #left {
+    float: left;
+    width: 50%;
+  }
+  #right {
+    float: right;
+    width: 40%;
+  }
+  aside, section {
+    padding: 2px;
+    background-color: #ccc;
+  }
+  </style>
+</head>
+<head>
+  <style>
+  #left {
+    float: left;
+    width: 50%;
+  }
+  #right {
+    float: right;
     width: 40%;
   }
   aside, section {

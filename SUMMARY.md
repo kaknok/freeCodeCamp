@@ -53,6 +53,7 @@
     * [Applied Visual Design: Use the CSS Transform scale Property to Change the Size of an Element](sdas/applied-visual-design-use-the-css-transform-scale-property-to-change-the-size-of-an-element.md)
     * [Applied Visual Design: Use the CSS Transform scale Property to Scale an Element on Hover](sdas/applied-visual-design-use-the-css-transform-scale-property-to-scale-an-element-on-hover.md)
     * [Applied Visual Design: Use the CSS Transform Property skewX to Skew an Element Along the X-Axis](sdas/applied-visual-design-use-the-css-transform-property-skewx-to-skew-an-element-along-the-x-axis.md)
+    * [Applied Visual Design: Use the CSS Transform Property skewY to Skew an Element Along the Y-Axis](sdas/applied-visual-design-use-the-css-transform-property-skewy-to-skew-an-element-along-the-y-axis.md)
   * [Responsive Design with Bootstrap](responsive-design-with-bootstrap.md)
   * jQuery
 

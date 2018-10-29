@@ -63,7 +63,7 @@ The @keyframes rule for rainbow should use a background-color of yellow at 100%.
 <div id="rect"></div>
 ```
 
-                                                             ![](/assets/ab.jpg)
+                                                            ![](/assets/ab.jpg)
 
 #### jasol:
 
@@ -81,9 +81,9 @@ The @keyframes rule for rainbow should use a background-color of yellow at 100%.
     animation-name: rainbow;
     animation-duration: 4s;
 
-    
+
   }
- 
+
   @keyframes rainbow {
     0% {
       background-color: blue;
@@ -94,14 +94,12 @@ The @keyframes rule for rainbow should use a background-color of yellow at 100%.
     100%{
       background-color: yellow;
     }
-    
+
   }
 
 </style>
 <div id="rect"></div>
 ```
-
-
 
 
 

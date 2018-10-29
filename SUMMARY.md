@@ -43,6 +43,7 @@
     * [Applied Visual Design: Change the Position of Overlapping Elements with the z-index Property](sdas/applied-visual-design-change-the-position-of-overlapping-elements-with-the-z-index-property.md)
     * [Applied Visual Design: Center an Element Horizontally Using the margin Property](sdas/applied-visual-design-center-an-element-horizontally-using-the-margin-property.md)
     * [Applied Visual Design: Learn about Complementary Colors](sdas/applied-visual-design-learn-about-complementary-colors.md)
+    * [Applied Visual Design: Learn about Tertiary Colors](sdas/applied-visual-design-learn-about-tertiary-colors.md)
   * [Responsive Design with Bootstrap](responsive-design-with-bootstrap.md)
   * jQuery
 

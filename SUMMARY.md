@@ -48,6 +48,7 @@
     * [Applied Visual Design: Adjust the Hue of a Color](sdas/applied-visual-design-adjust-the-hue-of-a-color.md)
     * [Applied Visual Design: Adjust the Tone of a Color](sdas/applied-visual-design-adjust-the-tone-of-a-color.md)
     * [Applied Visual Design: Create a Gradual CSS Linear Gradient](sdas/applied-visual-design-create-a-gradual-css-linear-gradient.md)
+    * [Applied Visual Design: Use a CSS Linear Gradient to Create a Striped Element](sdas/applied-visual-design-use-a-css-linear-gradient-to-create-a-striped-element.md)
   * [Responsive Design with Bootstrap](responsive-design-with-bootstrap.md)
   * jQuery
 

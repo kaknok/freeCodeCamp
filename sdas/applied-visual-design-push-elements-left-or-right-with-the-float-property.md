@@ -13,7 +13,7 @@ The element with id left should have a float value of left.
 The element with id right should have a float value of right.
 ```
 
-```
+```css
 <head>
   <style>
   #left {
@@ -52,7 +52,7 @@ The element with id right should have a float value of right.
 
 ###### jasol:
 
-```
+```css
 <head>
   <style>
   #left {
@@ -88,6 +88,4 @@ The element with id right should have a float value of right.
 ```
 
 ![](/assets/eex2.jpg)
-
-
 

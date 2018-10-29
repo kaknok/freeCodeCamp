@@ -62,6 +62,7 @@
     * [Applied Visual Design: Create Movement Using CSS Animation](sdas/applied-visual-design-create-movement-using-css-animation.md)
     * [Applied Visual Design: Create Visual Direction by Fading an Element from Left to Right](sdas/applied-visual-design-create-visual-direction-by-fading-an-element-from-left-to-right.md)
     * [Applied Visual Design: Animate Elements Continually Using an Infinite Animation Count](sdas/applied-visual-design-animate-elements-continually-using-an-infinite-animation-count.md)
+    * [Applied Visual Design: Make a CSS Heartbeat using an Infinite Animation Count](sdas/applied-visual-design-make-a-css-heartbeat-using-an-infinite-animation-count.md)
   * [Responsive Design with Bootstrap](responsive-design-with-bootstrap.md)
   * jQuery
 

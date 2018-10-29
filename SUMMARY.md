@@ -46,6 +46,7 @@
     * [Applied Visual Design: Learn about Tertiary Colors](sdas/applied-visual-design-learn-about-tertiary-colors.md)
     * [Applied Visual Design: Adjust the Color of Various Elements to Complementary Colors](sdas/applied-visual-design-adjust-the-color-of-various-elements-to-complementary-colors.md)
     * [Applied Visual Design: Adjust the Hue of a Color](sdas/applied-visual-design-adjust-the-hue-of-a-color.md)
+    * [Applied Visual Design: Adjust the Tone of a Color](sdas/applied-visual-design-adjust-the-tone-of-a-color.md)
   * [Responsive Design with Bootstrap](responsive-design-with-bootstrap.md)
   * jQuery
 

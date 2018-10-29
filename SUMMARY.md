@@ -39,6 +39,7 @@
     * [Applied Visual Design: Move a Relatively Positioned Element with CSS Offsets](sdas/applied-visual-design-move-a-relatively-positioned-element-with-css-offsets.md)
     * [Applied Visual Design: Lock an Element to its Parent with Absolute Positioning](sdas/applied-visual-design-lock-an-element-to-its-parent-with-absolute-positioning.md)
     * [Applied Visual Design: Lock an Element to the Browser Window with Fixed Positioning](sdas/applied-visual-design-lock-an-element-to-the-browser-window-with-fixed-positioning.md)
+    * [Applied Visual Design: Push Elements Left or Right with the float Property](sdas/applied-visual-design-push-elements-left-or-right-with-the-float-property.md)
   * [Responsive Design with Bootstrap](responsive-design-with-bootstrap.md)
   * jQuery
 

@@ -4,3 +4,5 @@ Skema tata letak berikutnya yang ditawarkan CSS adalah fixed position \(posisi t
 
 Satu perbedaan utama antara **fixed** dan **absolute** adalah bahwa elemen dengan posisi fixed / tetap tidak akan bergerak ketika pengguna scroll.
 
+
+

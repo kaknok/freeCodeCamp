@@ -106,7 +106,5 @@ The content of the heart ::before selector should be an empty string.
 <div class = "heart"></div>
 ```
 
-
-
-
+![](/assets/hartt.jpg)
 

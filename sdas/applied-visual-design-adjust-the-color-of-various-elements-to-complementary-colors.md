@@ -112,5 +112,5 @@ The button element should have a background-color of #FF790E.
 <footer>&copy; 2018 FCC Kitchen</footer>
 ```
 
-
+![](/assets/cook2.jpg)
 

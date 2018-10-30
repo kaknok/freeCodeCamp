@@ -8,6 +8,8 @@ Menempatkan properti CSS **display: flex;** pada elemen memungkinkan Anda untuk 
 
 ```
 Add the CSS property display to #box-container and set its value to flex.
+
+#box-container should have the display property set to a value of flex.
 ```
 
 ```css
@@ -37,5 +39,35 @@ Add the CSS property display to #box-container and set its value to flex.
 </div>
 ```
 
+![](/assets/yp.jpg)
 
+#### jasol:
+
+```
+<style>
+  #box-container {
+    height: 500px;
+    display: flex;
+  }
+  
+  #box-1 {
+    background-color: dodgerblue;
+    width: 50%;
+    height: 50%;
+    
+  }
+    #box-2 {
+    background-color: orangered;
+    width: 50%;
+    height: 50%;
+    
+  }
+</style>
+<div id="box-container">
+  <div id="box-1"></div>
+  <div id="box-2"></div>
+</div>
+```
+
+![](/assets/yp1.jpg)
 

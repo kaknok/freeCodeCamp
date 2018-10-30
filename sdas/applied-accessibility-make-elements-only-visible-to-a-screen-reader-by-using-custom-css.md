@@ -21,8 +21,9 @@ Catatan
 
 Pendekatan CSS berikut TIDAK akan melakukan hal yang sama:
 
-* **`display: none`**`;`or**`visibility: hidden`**`;`hides content for everyone, including screen reader users
-* Zero values for pixel sizes, such as`width: 0px;height: 0px;`removes that element from the flow of your document, meaning screen readers will ignore it
+* **display: none**; or **visibility: hidden**; hides content for everyone, including screen reader users
+
+* Zero values for pixel sizes, such as **width: 0px **; **height: 0px **; removes that element from the flow of your document, meaning screen readers will ignore it
 
 
 

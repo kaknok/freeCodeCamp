@@ -78,6 +78,7 @@
       * [Applied Accessibility: Jump Straight to the Content Using the main Element](sdas/applied-accessibility-jump-straight-to-the-content-using-the-main-element.md)
       * [Applied Accessibility: Wrap Content in the article Element](sdas/applied-accessibility-wrap-content-in-the-article-element.md)
       * [Applied Accessibility: Make Screen Reader Navigation Easier with the header Landmark](sdas/applied-accessibility-make-screen-reader-navigation-easier-with-the-header-landmark.md)
+      * [Applied Accessibility: Make Screen Reader Navigation Easier with the nav Landmark](sdas/applied-accessibility-make-screen-reader-navigation-easier-with-the-nav-landmark.md)
   * [Responsive Design with Bootstrap](responsive-design-with-bootstrap.md)
   * jQuery
 

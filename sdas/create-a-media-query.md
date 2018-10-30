@@ -1,4 +1,4 @@
-## Buat Permintaan Media
+## [Buat Permintaan Media](https://learn.freecodecamp.org/responsive-web-design/responsive-web-design-principles/create-a-media-query)
 
 Media Queries adalah teknik baru yang diperkenalkan di CSS3 yang mengubah penyajian konten berdasarkan ukuran viewport yang berbeda. Area pandang adalah area yang terlihat pengguna dari halaman web, dan berbeda tergantung pada perangkat yang digunakan untuk mengakses situs.
 

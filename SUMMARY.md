@@ -97,6 +97,7 @@
       * [Applied Accessibility: Use tabindex to Specify the Order of Keyboard Focus for Several Elements](sdas/applied-accessibility-use-tabindex-to-specify-the-order-of-keyboard-focus-for-several-elements.md)
     * Responsive Web Design Principles
       * [Create a Media Query](sdas/create-a-media-query.md)
+      * [Make an Image Responsive](sdas/make-an-image-responsive.md)
   * [Responsive Design with Bootstrap](responsive-design-with-bootstrap.md)
   * jQuery
 

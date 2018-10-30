@@ -1,0 +1,4 @@
+## [Buat Gambar Responsif](https://learn.freecodecamp.org/responsive-web-design/responsive-web-design-principles/make-an-image-responsive)
+
+
+

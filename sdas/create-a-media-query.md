@@ -18,8 +18,6 @@ dan kueri media berikut mengembalikan konten ketika tinggi perangkat lebih dari 
 
 Ingat, CSS di dalam kueri media hanya diterapkan jika jenis media cocok dengan perangkat yang digunakan.
 
-
-
 #### cosol:
 
 ```
@@ -30,16 +28,16 @@ Your p element should have the font-size of 10px when the device height is less 
 Declare a @media query for devices with a height less than or equal to 800px.
 ```
 
-```php
+```css
 <style>
   p {
     font-size: 20px;
   }
-  
+
   /* Add media query below */
-  
+
 </style>
-  
+
 <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus quis tempus massa. 
 Aenean erat nisl, gravida vel vestibulum cursus, interdum sit amet lectus. Sed sit amet quam nibh. 
 Suspendisse quis tincidunt nulla. In hac habitasse platea dictumst. Ut sit amet pretium nisl. 

@@ -95,7 +95,7 @@
       * [Applied Accessibility: Make Links Navigatable with HTML Access Keys](sdas/applied-accessibility-make-links-navigatable-with-html-access-keys.md)
       * [Applied Accessibility: Use tabindex to Add Keyboard Focus to an Element](sdas/applied-accessibility-use-tabindex-to-add-keyboard-focus-to-an-element.md)
       * [Applied Accessibility: Use tabindex to Specify the Order of Keyboard Focus for Several Elements](sdas/applied-accessibility-use-tabindex-to-specify-the-order-of-keyboard-focus-for-several-elements.md)
-    * Responsive Web Design Principles
+    * [Responsive Web Design Principles](sdas/responsive-web-design-principles.md)
       * [Create a Media Query](sdas/create-a-media-query.md)
       * [Make an Image Responsive](sdas/make-an-image-responsive.md)
   * [Responsive Design with Bootstrap](responsive-design-with-bootstrap.md)

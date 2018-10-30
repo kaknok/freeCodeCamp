@@ -11,9 +11,9 @@ Ingat bahwa orang-orang yang menggunakan teknologi bantu bergantung pada markup 
 elemen **section** juga baru dengan HTML5, dan memiliki makna semantik yang sedikit berbeda dari **article**. **article** adalah untuk konten yang berdiri sendiri, dan **section** untuk mengelompokkan konten yang terkait tematik. Mereka dapat digunakan satu sama lain, sesuai kebutuhan. Misalnya, jika sebuah buku adalah **article**, maka setiap bab adalah **section**. Ketika tidak ada hubungan antara kelompok konten, lalu gunakan **div**.
 
 ```php
-<div> - groups content
-<section> - groups related content
-<article> - groups independent, self-contained content
+<div> - groups content // mengelompokkan konten
+<section> - groups related content // mengelompokkan konten terkait
+<article> - groups independent, self-contained content // mengelompokkan konten independen dan mandiri
 ```
 
 

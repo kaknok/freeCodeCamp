@@ -2,7 +2,7 @@
 
 Membuat gambar yang responsif dengan CSS sebenarnya sangat sederhana. Alih-alih menerapkan lebar mutlak ke elemen:
 
-```php
+```css
 img { width: 720px; }
 ```
 

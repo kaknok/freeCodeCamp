@@ -102,6 +102,7 @@
       * [Make Typography Responsive](sdas/make-typography-responsive.md)
     * CSS Flexbox
       * [Use display: flex to Position Two Boxes](sdas/use-display-flex-to-position-two-boxes.md)
+      * [Add Flex Superpowers to the Tweet Embed](sdas/add-flex-superpowers-to-the-tweet-embed.md)
   * [Responsive Design with Bootstrap](responsive-design-with-bootstrap.md)
   * jQuery
 

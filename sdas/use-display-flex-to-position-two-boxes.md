@@ -4,33 +4,31 @@ Bagian ini menggunakan gaya tantangan bergantian untuk menunjukkan bagaimana men
 
 Menempatkan properti CSS **display: flex;** pada elemen memungkinkan Anda untuk menggunakan properti fleksibel lainnya untuk membangun halaman responsif.
 
-
-
 #### cosol:
 
 ```
 Add the CSS property display to #box-container and set its value to flex.
 ```
 
-```php
+```css
 <style>
   #box-container {
     height: 500px;
-    
+
   }
-  
+
   #box-1 {
     background-color: dodgerblue;
     width: 50%;
     height: 50%;
-    
+
   }
-  
+
   #box-2 {
     background-color: orangered;
     width: 50%;
     height: 50%;
-    
+
   }
 </style>
 <div id="box-container">

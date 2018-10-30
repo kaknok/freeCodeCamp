@@ -103,6 +103,7 @@
     * CSS Flexbox
       * [Use display: flex to Position Two Boxes](sdas/use-display-flex-to-position-two-boxes.md)
       * [Add Flex Superpowers to the Tweet Embed](sdas/add-flex-superpowers-to-the-tweet-embed.md)
+      * [Use the flex-direction Property to Make a Row](sdas/use-the-flex-direction-property-to-make-a-row.md)
   * [Responsive Design with Bootstrap](responsive-design-with-bootstrap.md)
   * jQuery
 

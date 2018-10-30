@@ -92,6 +92,7 @@
       * [Applied Accessibility: Avoid Colorblindness Issues by Carefully Choosing Colors that Convey Information](sdas/applied-accessibility-avoid-colorblindness-issues-by-carefully-choosing-colors-that-convey-information.md)
       * [Applied Accessibility: Give Links Meaning by Using Descriptive Link Text](sdas/applied-accessibility-give-links-meaning-by-using-descriptive-link-text.md)
       * [Applied Accessibility: Make Links Navigatable with HTML Access Keys](sdas/applied-accessibility-make-links-navigatable-with-html-access-keys.md)
+      * [Applied Accessibility: Use tabindex to Add Keyboard Focus to an Element](sdas/applied-accessibility-use-tabindex-to-add-keyboard-focus-to-an-element.md)
   * [Responsive Design with Bootstrap](responsive-design-with-bootstrap.md)
   * jQuery
 

@@ -83,6 +83,7 @@
       * [Applied Accessibility: Improve Accessibility of Audio Content with the audio Element](sdas/applied-accessibility-improve-accessibility-of-audio-content-with-the-audio-element.md)
       * [Applied Accessibility: Improve Chart Accessibility with the figure Element](sdas/applied-accessibility-improve-chart-accessibility-with-the-figure-element.md)
       * [Applied Accessibility: Improve Form Field Accessibility with the label Element](sdas/applied-accessibility-improve-form-field-accessibility-with-the-label-element.md)
+      * [Applied Accessibility: Wrap Radio Buttons in a fieldset Element for Better Accessibility](sdas/applied-accessibility-wrap-radio-buttons-in-a-fieldset-element-for-better-accessibility.md)
   * [Responsive Design with Bootstrap](responsive-design-with-bootstrap.md)
   * jQuery
 

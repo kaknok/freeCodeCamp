@@ -68,5 +68,33 @@ The animation-duration property for the star with class star-3 should be 1.1s.
 <div class="star-3 stars"></div>
 ```
 
+###### ![](/assets/tt2.jpg) tiga bintang ini kelap kelip serempak
+
+#### jasol:
+
+```css
+  .star-1 {
+    margin-top: 15%; 
+    margin-left: 60%;
+    animation-duration: 1s;
+    animation-name: twinkle;
+  }
+  .star-2 {
+    margin-top: 25%;
+    margin-left: 25%;
+    animation-duration: 0.9s;
+    animation-name: twinkle;
+  }
+
+  .star-3 {
+    margin-top: 10%;
+    margin-left: 50%;
+    animation-duration: 1.1s;
+    animation-name: twinkle;
+  }
+```
+
+
+
 
 

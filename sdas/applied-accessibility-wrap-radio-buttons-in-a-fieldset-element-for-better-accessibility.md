@@ -71,7 +71,5 @@ Your code should no longer have a p tag around the text asking what level ninja 
 <!-- Add your code above this line -->
 ```
 
-
-
-
+![](/assets/kott.jpg)
 

@@ -93,6 +93,7 @@
       * [Applied Accessibility: Give Links Meaning by Using Descriptive Link Text](sdas/applied-accessibility-give-links-meaning-by-using-descriptive-link-text.md)
       * [Applied Accessibility: Make Links Navigatable with HTML Access Keys](sdas/applied-accessibility-make-links-navigatable-with-html-access-keys.md)
       * [Applied Accessibility: Use tabindex to Add Keyboard Focus to an Element](sdas/applied-accessibility-use-tabindex-to-add-keyboard-focus-to-an-element.md)
+      * [Applied Accessibility: Use tabindex to Specify the Order of Keyboard Focus for Several Elements](sdas/applied-accessibility-use-tabindex-to-specify-the-order-of-keyboard-focus-for-several-elements.md)
   * [Responsive Design with Bootstrap](responsive-design-with-bootstrap.md)
   * jQuery
 

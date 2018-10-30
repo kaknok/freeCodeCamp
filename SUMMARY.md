@@ -90,6 +90,7 @@
       * [Applied Accessibility: Improve Readability with High Contrast Text](sdas/applied-accessibility-improve-readability-with-high-contrast-text.md)
       * [Applied Accessibility: Avoid Colorblindness Issues by Using Sufficient Contrast](sdas/applied-accessibility-avoid-colorblindness-issues-by-using-sufficient-contrast.md)
       * [Applied Accessibility: Avoid Colorblindness Issues by Carefully Choosing Colors that Convey Information](sdas/applied-accessibility-avoid-colorblindness-issues-by-carefully-choosing-colors-that-convey-information.md)
+      * [Applied Accessibility: Give Links Meaning by Using Descriptive Link Text](sdas/applied-accessibility-give-links-meaning-by-using-descriptive-link-text.md)
   * [Responsive Design with Bootstrap](responsive-design-with-bootstrap.md)
   * jQuery
 

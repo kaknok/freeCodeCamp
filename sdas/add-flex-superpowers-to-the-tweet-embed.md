@@ -20,13 +20,13 @@ Your .follow-btn should have a display property set to flex.
 Your .stats should have a display property set to flex.
 ```
 
-```
+```css
 <style>
   body {
     font-family: Arial, sans-serif;
   }
   header {
-    
+
   }
   header .profile-thumbnail {
     width: 50px;
@@ -34,11 +34,11 @@ Your .stats should have a display property set to flex.
     border-radius: 4px;
   }
   header .profile-name {
-    
+
     margin-left: 10px;
   }
     header .follow-btn {
-    
+
     margin: 0 0 0 auto;
   }
   header .follow-btn button {
@@ -47,7 +47,7 @@ Your .stats should have a display property set to flex.
     padding: 5px;
   }
   header h3, header h4 {
-    
+
     margin: 0;
   }
    #inner p {
@@ -60,10 +60,10 @@ Your .stats should have a display property set to flex.
     opacity: 0.1;
   }
   footer {
-    
+
   }
   footer .stats {
-    
+
     font-size: 15px;
   }
   footer .stats strong {
@@ -80,7 +80,7 @@ Your .stats should have a display property set to flex.
     background: transparent;
   }
   </style>
-  
+
 <header>
   <img
   src="https://pbs.twimg.com/profile_images/378800000147359764/54dc9a5c34e912f34db8662d53d16a39_400x400.png" alt="Quincy Larson's profile picture" class="profile-thumbnail">

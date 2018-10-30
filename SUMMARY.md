@@ -68,6 +68,7 @@
     * [Applied Visual Design: Change Animation Timing with Keywords](sdas/applied-visual-design-change-animation-timing-with-keywords.md)
     * [Applied Visual Design: Learn How Bezier Curves Work](sdas/applied-visual-design-learn-how-bezier-curves-work.md)
     * [Applied Visual Design: Use a Bezier Curve to Move a Graphic](sdas/applied-visual-design-use-a-bezier-curve-to-move-a-graphic.md)
+    * [Applied Visual Design: Make Motion More Natural Using a Bezier Curve](sdas/applied-visual-design-make-motion-more-natural-using-a-bezier-curve.md)
   * [Responsive Design with Bootstrap](responsive-design-with-bootstrap.md)
   * jQuery
 

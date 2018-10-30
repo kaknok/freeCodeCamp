@@ -85,6 +85,7 @@
       * [Applied Accessibility: Improve Form Field Accessibility with the label Element](sdas/applied-accessibility-improve-form-field-accessibility-with-the-label-element.md)
       * [Applied Accessibility: Wrap Radio Buttons in a fieldset Element for Better Accessibility](sdas/applied-accessibility-wrap-radio-buttons-in-a-fieldset-element-for-better-accessibility.md)
       * [Applied Accessibility: Add an Accessible Date Picker](sdas/applied-accessibility-add-an-accessible-date-picker.md)
+      * [Applied Accessibility: Standardize Times with the HTML5 datetime Attribute](sdas/applied-accessibility-standardize-times-with-the-html5-datetime-attribute.md)
   * [Responsive Design with Bootstrap](responsive-design-with-bootstrap.md)
   * jQuery
 

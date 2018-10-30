@@ -24,3 +24,21 @@ Inilah contohnya:
 
 
 
+
+
+```php
+<!-- Add your code below this line -->
+      <fieldset>
+        <legend>What level ninja are you?</legend>
+        <input id="newbie" type="radio" name="levels" value="newbie">
+        <label for="newbie">Newbie Kitten</label><br>
+        <input id="intermediate" type="radio" name="levels" value="intermediate">
+        <label for="intermediate">Developing Student</label><br>
+        <input id="master" type="radio" name="levels" value="master">
+        <label for="master">Master</label>
+      </fieldset>
+      <!-- Add your code above this line -->
+```
+
+
+

@@ -2,15 +2,11 @@
 
 Pernahkah Anda memperhatikan bahwa semua tantangan aksesibilitas yang diterapkan sejauh ini belum menggunakan CSS? Ini untuk menunjukkan pentingnya garis besar dokumen logis, dan menggunakan tag semantik yang berarti di sekitar konten Anda sebelum memperkenalkan aspek desain visual.
 
-
-
 Namun, keajaiban CSS juga dapat meningkatkan aksesibilitas pada halaman Anda ketika Anda ingin menyembunyikan konten secara visual yang hanya dimaksudkan untuk pembaca layar. Ini terjadi ketika informasi berada dalam format visual \(seperti bagan\), tetapi pengguna pembaca layar memerlukan presentasi alternatif \(seperti tabel\) untuk mengakses data. CSS digunakan untuk memposisikan elemen-elemen pembaca layar saja dari area visual jendela browser.
-
-
 
 Berikut ini contoh aturan CSS yang mencapai ini:
 
-```php
+```css
 .sr-only {
   position: absolute;
   left: -10000px;

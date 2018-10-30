@@ -70,15 +70,17 @@ The @keyframes rule for the star-1 class should be 50%.
 #### jasol:
 
 ```css
-
   @keyframes twinkle-1 {
     50% {
       transform: scale(0.5);
       opacity: 0.5;
     }
   }
-
 ```
+
+###### ![](/assets/tt.jpg) dua titik ini berkelap kelip bergantian \(bintang kelap-kelip\)
+
+#### 
 
 
 

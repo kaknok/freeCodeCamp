@@ -84,6 +84,8 @@ The animation-iteration-count property for the back class should have a value of
 <div class="heart"></div>
 ```
 
+#### ![](/assets/hartt.jpg)
+
 #### jasol:
 
 ```css
@@ -155,6 +157,8 @@ The animation-iteration-count property for the back class should have a value of
 <div class="back"></div>
 <div class="heart"></div>
 ```
+
+###### ![](/assets/hartt.jpg):hati ini akan berdetak, dengan detakannya background jadi pink
 
 
 

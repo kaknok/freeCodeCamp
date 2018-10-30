@@ -89,6 +89,7 @@
       * [Applied Accessibility: Make Elements Only Visible to a Screen Reader by Using Custom CSS](sdas/applied-accessibility-make-elements-only-visible-to-a-screen-reader-by-using-custom-css.md)
       * [Applied Accessibility: Improve Readability with High Contrast Text](sdas/applied-accessibility-improve-readability-with-high-contrast-text.md)
       * [Applied Accessibility: Avoid Colorblindness Issues by Using Sufficient Contrast](sdas/applied-accessibility-avoid-colorblindness-issues-by-using-sufficient-contrast.md)
+      * [Applied Accessibility: Avoid Colorblindness Issues by Carefully Choosing Colors that Convey Information](sdas/applied-accessibility-avoid-colorblindness-issues-by-carefully-choosing-colors-that-convey-information.md)
   * [Responsive Design with Bootstrap](responsive-design-with-bootstrap.md)
   * jQuery
 

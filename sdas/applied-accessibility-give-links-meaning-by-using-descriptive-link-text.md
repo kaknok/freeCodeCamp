@@ -4,3 +4,5 @@ Pengguna pembaca layar memiliki opsi berbeda untuk jenis konten apa yang dibaca 
 
 Pembaca layar melakukan ini dengan membaca teks tautan, atau apa yang ada di antara tag anchor \(**a**\). Memiliki daftar tautan "klik di sini" atau "baca lebih lanjut" tidak bermanfaat. Sebagai gantinya, Anda harus menggunakan teks singkat tetapi deskriptif di dalam tag **a** untuk memberikan lebih banyak makna bagi pengguna ini.
 
+
+

@@ -1,4 +1,4 @@
-## Desain Visual Terapan: Pelajari Bagaimana Kurva Bezier Bekerja
+## [Desain Visual Terapan: Pelajari Bagaimana Kurva Bezier Bekerja](https://learn.freecodecamp.org/responsive-web-design/applied-visual-design/learn-how-bezier-curves-work)
 
 Tantangan terakhir memperkenalkan properti **animation-timing-function** dan beberapa kata kunci yang mengubah kecepatan animasi selama durasinya. CSS menawarkan opsi selain kata kunci yang memberikan kontrol yang lebih baik terhadap bagaimana animasi dimainkan, melalui penggunaan kurva Bezier.
 

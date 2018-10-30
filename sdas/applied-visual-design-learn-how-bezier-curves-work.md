@@ -64,5 +64,11 @@ The value of the animation-timing-function property for the element with the id 
 <div class="balls" id="ball2"></div>
 ```
 
+###### ![](/assets/bu.jpg) bulatan ini jatuh tidak serempak dan terus2an
+
+#### jasol:
+
+
+
 
 

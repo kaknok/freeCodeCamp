@@ -94,7 +94,7 @@ The animation-duration property for the star with class star-3 should be 1.1s.
   }
 ```
 
-
+###### ![](/assets/tt2.jpg) tiga bintang ini berganti2 kelap kelip berdasarkan waktu dari animation-duration
 
 
 

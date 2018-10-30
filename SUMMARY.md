@@ -81,6 +81,7 @@
       * [Applied Accessibility: Make Screen Reader Navigation Easier with the nav Landmark](sdas/applied-accessibility-make-screen-reader-navigation-easier-with-the-nav-landmark.md)
       * [Applied Accessibility: Make Screen Reader Navigation Easier with the footer Landmark](sdas/applied-accessibility-make-screen-reader-navigation-easier-with-the-footer-landmark.md)
       * [Applied Accessibility: Improve Accessibility of Audio Content with the audio Element](sdas/applied-accessibility-improve-accessibility-of-audio-content-with-the-audio-element.md)
+      * [Applied Accessibility: Improve Chart Accessibility with the figure Element](sdas/applied-accessibility-improve-chart-accessibility-with-the-figure-element.md)
   * [Responsive Design with Bootstrap](responsive-design-with-bootstrap.md)
   * jQuery
 

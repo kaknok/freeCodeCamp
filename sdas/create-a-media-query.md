@@ -4,7 +4,7 @@ Media Queries adalah teknik baru yang diperkenalkan di CSS3 yang mengubah penyaj
 
 Media Queries terdiri dari jenis media, dan jika jenis media itu sesuai dengan jenis perangkat dokumen ditampilkan, gaya diterapkan. Anda dapat memiliki banyak pemilih dan gaya di dalam permintaan media Anda seperti yang Anda inginkan.
 
-Berikut ini contoh kueri media yang mengembalikan konten ketika lebar perangkat kurang dari atau sama dengan 100 piksel:
+Berikut ini contoh query media yang mengembalikan konten ketika lebar perangkat kurang dari atau sama dengan 100 piksel:
 
 ```php
 @media (max-width: 100px) {/ * Aturan CSS * /}
@@ -38,6 +38,28 @@ Declare a @media query for devices with a height less than or equal to 800px.
 
 </style>
 
+<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus quis tempus massa. 
+Aenean erat nisl, gravida vel vestibulum cursus, interdum sit amet lectus. Sed sit amet quam nibh. 
+Suspendisse quis tincidunt nulla. In hac habitasse platea dictumst. Ut sit amet pretium nisl. 
+Vivamus vel mi sem. Aenean sit amet consectetur sem. Suspendisse pretium, purus et gravida consequat, 
+nunc ligula ultricies diam, at aliquet velit libero a dui.</p>
+```
+
+![](/assets/q.jpg)
+
+#### jasol:
+
+```css
+<style>
+  p {
+    font-size: 10px;
+    height: 800px;
+  }
+  
+  /* Add media query below */
+  @media (max-height: 800px) { /* CSS Rules */ }
+</style>
+  
 <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus quis tempus massa. 
 Aenean erat nisl, gravida vel vestibulum cursus, interdum sit amet lectus. Sed sit amet quam nibh. 
 Suspendisse quis tincidunt nulla. In hac habitasse platea dictumst. Ut sit amet pretium nisl. 

@@ -100,6 +100,8 @@
       * [Make an Image Responsive](sdas/make-an-image-responsive.md)
       * [Use a Retina Image for Higher Resolution Displays](sdas/use-a-retina-image-for-higher-resolution-displays.md)
       * [Make Typography Responsive](sdas/make-typography-responsive.md)
+    * CSS Flexbox
+      * [Use display: flex to Position Two Boxes](sdas/use-display-flex-to-position-two-boxes.md)
   * [Responsive Design with Bootstrap](responsive-design-with-bootstrap.md)
   * jQuery
 

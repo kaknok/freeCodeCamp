@@ -2,8 +2,6 @@
 
 Ada berbagai cara untuk mengubah tingkat animasi dari elemen animasi yang serupa. Sejauh ini, ini telah dicapai dengan menerapkan properti **animation-iteration-count** dan pengaturan aturan **@keyframes**.
 
-
-
 Untuk mengilustrasikan, animasi di sebelah kanan terdiri dari dua "stars" yang masing-masing penurunan ukuran dan opacity pada tanda 20% dalam aturan **@keyframes**, yang menciptakan animasi binar-binar. Anda dapat mengubah aturan **@keyframes** untuk salah satu elemen sehingga bintang bersinar dengan kecepatan yang berbeda.
 
 #### cosol:
@@ -15,7 +13,7 @@ by changing its @keyframes rule to 50%.
 The @keyframes rule for the star-1 class should be 50%.
 ```
 
-```
+```css
 <style>
   .stars {
     background-color: white;

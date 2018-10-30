@@ -118,8 +118,6 @@ Your .stats should have a display property set to flex.
 
 ![](/assets/shn.jpg)
 
-
-
 #### jasol:
 
 ```css
@@ -168,7 +166,9 @@ Your .stats should have a display property set to flex.
     display: flex;
     font-size: 15px;
   }
+  
+  /* di copy kanyang dirubah aja */
 ```
 
-
+![](/assets/shnn.jpg)
 

@@ -76,6 +76,7 @@
       * [Applied Accessibility: Know When Alt Text Should be Left Blank](sdas/applied-accessibility-know-when-alt-text-should-be-left-blank.md)
       * [Applied Accessibility: Use Headings to Show Hierarchical Relationships of Content](sdas/applied-accessibility-use-headings-to-show-hierarchical-relationships-of-content.md)
       * [Applied Accessibility: Jump Straight to the Content Using the main Element](sdas/applied-accessibility-jump-straight-to-the-content-using-the-main-element.md)
+      * [Applied Accessibility: Wrap Content in the article Element](sdas/applied-accessibility-wrap-content-in-the-article-element.md)
   * [Responsive Design with Bootstrap](responsive-design-with-bootstrap.md)
   * jQuery
 

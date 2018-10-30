@@ -24,6 +24,41 @@ Inilah contohnya:
 
 
 
+#### cosol:
+
+```
+Camper Cat wants information about the ninja level of his users when they sign up for his email list. 
+He's added a set of radio buttons, 
+and learned from our last lesson to use label tags with for attributes for each choice. 
+Go Camper Cat! However, his code still needs some help. 
+Change the div tag surrounding the radio buttons to a fieldset tag, 
+and change the p tag inside it to a legend.
+
+Your code should have a fieldset tag around the radio button set.
+Make sure your fieldset element has a closing tag.
+Your code should have a legend tag around the text asking what level ninja a user is.
+Your code should not have any div tags.
+Your code should no longer have a p tag around the text asking what level ninja a user is.
+```
+
+```php
+<!-- Add your code below this line -->
+      <div>
+        <p>What level ninja are you?</p>
+        <input id="newbie" type="radio" name="levels" value="newbie">
+        <label for="newbie">Newbie Kitten</label><br>
+        <input id="intermediate" type="radio" name="levels" value="intermediate">
+        <label for="intermediate">Developing Student</label><br>
+        <input id="master" type="radio" name="levels" value="master">
+        <label for="master">Master</label>
+      </div>
+<!-- Add your code above this line -->
+```
+
+
+
+
+
 
 
 ```php

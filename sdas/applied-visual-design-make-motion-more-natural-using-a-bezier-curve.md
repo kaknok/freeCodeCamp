@@ -12,8 +12,6 @@ cubic-bezier(0.3, 0.4, 0.5, 1.6);
 
 _Perhatikan bahwa nilai y2 lebih besar dari 1. Meskipun kurva kubik Bezier dipetakan pada sistem koordinat 1 oleh 1, dan hanya dapat menerima nilai x dari 0 hingga 1, nilai y dapat diatur ke angka yang lebih besar dari satu. Ini menghasilkan gerakan memantul yang ideal untuk mensimulasikan bola juggling._
 
-
-
 #### cosol:
 
 ```
@@ -60,6 +58,18 @@ with the id green should be a cubic-bezier function with x1, y1, x2, y2 values a
 <div class="balls" id="red"></div>
 <div class="balls" id="blue"></div>
 <div class="balls" id="green"></div>
+```
+
+###### ![](/assets/trip.jpg) tiga bola ini proses jatuhnya tidak serempak tapi berhenti bersamaan.
+
+#### jasol:
+
+```css
+  #green {
+    background: green;
+    left: 75%;
+    animation-timing-function: cubic-bezier(0.311, 0.441, 0.444, 1.649);
+  }
 ```
 
 

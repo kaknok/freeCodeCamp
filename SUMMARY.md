@@ -27,6 +27,7 @@
       * [Anchor elemen](sdas/anchor-elemen.md)
       * [Nest kan elemen Anchor ke dalam paragraf](sdas/nest-kan-elemen-anchor-ke-dalam-paragraf.md)
       * [Membuat Link mati dengan Hash \(\#\) simbol](sdas/membuat-link-mati-dengan-hash-simbol.md)
+    * Basic CSS
     * [Applied Visual Design](sdas/applied-visual-design.md)
       * [Applied Visual Design: Add a box-shadow to a Card-like Element](sdas/applied-visual-design-add-a-box-shadow-to-a-card-like-element.md)
       * [Applied Visual Design: Decrease the Opacity of an Element](sdas/applied-visual-design-decrease-the-opacity-of-an-element.md)
@@ -71,7 +72,7 @@
       * [Applied Visual Design: Use a Bezier Curve to Move a Graphic](sdas/applied-visual-design-use-a-bezier-curve-to-move-a-graphic.md)
       * [Applied Visual Design: Make Motion More Natural Using a Bezier Curve](sdas/applied-visual-design-make-motion-more-natural-using-a-bezier-curve.md)
     * Applied Accessibility
-      * Applied Accessibility: Add a Text Alternative to Images for Visually Impaired Accessibility
+      * [Applied Accessibility: Add a Text Alternative to Images for Visually Impaired Accessibility](sdas/applied-accessibility-add-a-text-alternative-to-images-for-visually-impaired-accessibility.md)
   * [Responsive Design with Bootstrap](responsive-design-with-bootstrap.md)
   * jQuery
 

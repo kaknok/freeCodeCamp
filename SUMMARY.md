@@ -73,6 +73,7 @@
       * [Applied Visual Design: Make Motion More Natural Using a Bezier Curve](sdas/applied-visual-design-make-motion-more-natural-using-a-bezier-curve.md)
     * Applied Accessibility
       * [Applied Accessibility: Add a Text Alternative to Images for Visually Impaired Accessibility](sdas/applied-accessibility-add-a-text-alternative-to-images-for-visually-impaired-accessibility.md)
+      * [Applied Accessibility: Know When Alt Text Should be Left Blank](sdas/applied-accessibility-know-when-alt-text-should-be-left-blank.md)
   * [Responsive Design with Bootstrap](responsive-design-with-bootstrap.md)
   * jQuery
 

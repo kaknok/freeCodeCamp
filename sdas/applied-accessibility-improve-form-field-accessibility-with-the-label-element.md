@@ -6,7 +6,7 @@ Tag **label** membungkus teks untuk item kontrol bentuk tertentu, biasanya nama 
 
 Anda belajar tentang tombol radio dan labelnya dalam pelajaran di bagian HTML Dasar. Dalam pelajaran itu, kami membungkuskan elemen input tombol radio di dalam elemen **label** bersama dengan teks label untuk membuat teks dapat diklik. Cara lain untuk mencapai ini adalah dengan menggunakan atribut **for** sebagaimana dijelaskan dalam pelajaran ini.
 
-Nilai atribut untuk harus sama dengan nilai atribut id dari kontrol form. Inilah contohnya:
+Nilai atribut untuk harus sama dengan nilai atribut **id** dari kontrol form. Inilah contohnya:
 
 ```php
 <form>

@@ -98,6 +98,7 @@
     * [Responsive Web Design Principles](sdas/responsive-web-design-principles.md)
       * [Create a Media Query](sdas/create-a-media-query.md)
       * [Make an Image Responsive](sdas/make-an-image-responsive.md)
+      * [Use a Retina Image for Higher Resolution Displays](sdas/use-a-retina-image-for-higher-resolution-displays.md)
   * [Responsive Design with Bootstrap](responsive-design-with-bootstrap.md)
   * jQuery
 

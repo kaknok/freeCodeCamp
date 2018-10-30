@@ -65,6 +65,7 @@
     * [Applied Visual Design: Make a CSS Heartbeat using an Infinite Animation Count](sdas/applied-visual-design-make-a-css-heartbeat-using-an-infinite-animation-count.md)
     * [Applied Visual Design: Animate Elements at Variable Rates](sdas/applied-visual-design-animate-elements-at-variable-rates.md)
     * [Applied Visual Design: Animate Multiple Elements at Variable Rates](sdas/applied-visual-design-animate-multiple-elements-at-variable-rates.md)
+    * [Applied Visual Design: Change Animation Timing with Keywords](sdas/applied-visual-design-change-animation-timing-with-keywords.md)
   * [Responsive Design with Bootstrap](responsive-design-with-bootstrap.md)
   * jQuery
 

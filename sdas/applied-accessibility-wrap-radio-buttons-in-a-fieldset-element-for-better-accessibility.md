@@ -22,8 +22,6 @@ Inilah contohnya:
 </form>
 ```
 
-
-
 #### cosol:
 
 ```
@@ -55,11 +53,9 @@ Your code should no longer have a p tag around the text asking what level ninja 
 <!-- Add your code above this line -->
 ```
 
+![](/assets/kitt.jpg)
 
-
-
-
-
+#### jasol:
 
 ```php
 <!-- Add your code below this line -->
@@ -72,8 +68,10 @@ Your code should no longer have a p tag around the text asking what level ninja 
         <input id="master" type="radio" name="levels" value="master">
         <label for="master">Master</label>
       </fieldset>
-      <!-- Add your code above this line -->
+<!-- Add your code above this line -->
 ```
+
+
 
 
 

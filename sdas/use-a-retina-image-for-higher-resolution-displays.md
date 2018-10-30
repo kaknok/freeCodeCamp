@@ -23,12 +23,29 @@ Your img tag should have a height of 100 pixels.
 
 ```css
 <style>
-  
+
 </style>
 
 <img src="https://s3.amazonaws.com/freecodecamp/FCCStickers-CamperBot200x200.jpg" 
 alt="freeCodeCamp sticker that says 'Because CamperBot Cares'">
 ```
+
+![](/assets/camp.jpg)
+
+#### jasol:
+
+```css
+<style>
+  img {
+      width: 100px;
+      height: 100px;
+  }
+</style>
+
+<img src="https://s3.amazonaws.com/freecodecamp/FCCStickers-CamperBot200x200.jpg" alt="freeCodeCamp sticker that says 'Because CamperBot Cares'">
+```
+
+###### ![](/assets/comp.jpg) jadi lebih kecil
 
 
 

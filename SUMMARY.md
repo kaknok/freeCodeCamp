@@ -79,6 +79,8 @@
       * [Applied Accessibility: Wrap Content in the article Element](sdas/applied-accessibility-wrap-content-in-the-article-element.md)
       * [Applied Accessibility: Make Screen Reader Navigation Easier with the header Landmark](sdas/applied-accessibility-make-screen-reader-navigation-easier-with-the-header-landmark.md)
       * [Applied Accessibility: Make Screen Reader Navigation Easier with the nav Landmark](sdas/applied-accessibility-make-screen-reader-navigation-easier-with-the-nav-landmark.md)
+      * [Applied Accessibility: Make Screen Reader Navigation Easier with the footer Landmark](sdas/applied-accessibility-make-screen-reader-navigation-easier-with-the-footer-landmark.md)
+      * [Applied Accessibility: Improve Accessibility of Audio Content with the audio Element](sdas/applied-accessibility-improve-accessibility-of-audio-content-with-the-audio-element.md)
   * [Responsive Design with Bootstrap](responsive-design-with-bootstrap.md)
   * jQuery
 

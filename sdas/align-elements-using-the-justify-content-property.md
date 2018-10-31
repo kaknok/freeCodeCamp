@@ -24,6 +24,8 @@ element, and give it a value of center.
 Bonus
 Try the other options for the justify-content property in the code editor to see their differences. 
 But note that a value of center is the only one that will pass this challenge.
+(Coba opsi lain untuk konten yang membenarkan untuk melihat perbedaannya. 
+Tetapi perhatikan bahwa nilai pusat hanya satu yang akan melewati tantangan ini.)
 
 The #box-container element should have a justify-content property set to a value of center.
 ```
@@ -34,7 +36,7 @@ The #box-container element should have a justify-content property set to a value
     background: gray;
     display: flex;
     height: 500px;
-    
+
   }
   #box-1 {
     background-color: dodgerblue;
@@ -58,7 +60,31 @@ The #box-container element should have a justify-content property set to a value
 
 #### jasol:
 
+```
+<style>
+  #box-container {
+    background: gray;
+    display: flex;
+    height: 500px;
+    justify-content: center; /* ini yg ditambahkan */
+  }
+  #box-1 {
+    background-color: dodgerblue;
+    width: 25%;
+    height: 100%;
+  }
+  #box-2 {
+    background-color: orangered;
+    width: 25%;
+    height: 100%;
+  }
+</style>
 
+<div id="box-container">
+  <div id="box-1"></div>
+  <div id="box-2"></div>
+</div>
+```
 
-
+![](/assets/akko.jpg)
 

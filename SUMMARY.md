@@ -113,6 +113,7 @@
       * [Use the flex-wrap Property to Wrap a Row or Column](sdas/use-the-flex-wrap-property-to-wrap-a-row-or-column.md)
       * [Use the flex-shrink Property to Shrink Items](sdas/use-the-flex-shrink-property-to-shrink-items.md)
       * [Use the flex-grow Property to Expand Items](sdas/use-the-flex-grow-property-to-expand-items.md)
+      * [Use the flex-basis Property to Set the Initial Size of an Item](sdas/use-the-flex-basis-property-to-set-the-initial-size-of-an-item.md)
     * CSS Grid
     * Responsive Web Design Projects
   * [Javascript Algorithms And Data Structures Certification](responsive-design-with-bootstrap.md)

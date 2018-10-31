@@ -60,7 +60,7 @@ The #box-container element should have a justify-content property set to a value
 
 #### jasol:
 
-```
+```css
 <style>
   #box-container {
     background: gray;

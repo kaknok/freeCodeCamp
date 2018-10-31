@@ -103,6 +103,7 @@
       * [Use display: flex to Position Two Boxes](sdas/use-display-flex-to-position-two-boxes.md)
       * [Add Flex Superpowers to the Tweet Embed](sdas/add-flex-superpowers-to-the-tweet-embed.md)
       * [Use the flex-direction Property to Make a Row](sdas/use-the-flex-direction-property-to-make-a-row.md)
+      * [Apply the flex-direction Property to Create Rows in the Tweet Embed](sdas/apply-the-flex-direction-property-to-create-rows-in-the-tweet-embed.md)
     * CSS Grid
     * Responsive Web Design Projects
   * [Javascript Algorithms And Data Structures Certification](responsive-design-with-bootstrap.md)

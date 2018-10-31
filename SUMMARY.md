@@ -106,6 +106,7 @@
       * [Apply the flex-direction Property to Create Rows in the Tweet Embed](sdas/apply-the-flex-direction-property-to-create-rows-in-the-tweet-embed.md)
       * [Use the flex-direction Property to Make a Column](sdas/use-the-flex-direction-property-to-make-a-column.md)
       * [Apply the flex-direction Property to Create a Column in the Tweet Embed](sdas/apply-the-flex-direction-property-to-create-a-column-in-the-tweet-embed.md)
+      * [Align Elements Using the justify-content Property](sdas/align-elements-using-the-justify-content-property.md)
     * CSS Grid
     * Responsive Web Design Projects
   * [Javascript Algorithms And Data Structures Certification](responsive-design-with-bootstrap.md)

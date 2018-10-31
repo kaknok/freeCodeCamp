@@ -2,8 +2,7 @@
 
 * [Front End Development Certification](README.md)
   * Responsive Web Design Certification
-  * [HTML5 & CSS](sdas.md)
-    * html bsic
+    * Basic HTML and HTML5
       * [Menyapa elemen HTML](sdas/menyapa-elemen-html.md)
       * [Membuat headline dengan elemen H2](sdas/membuat-headline-dengan-elemen-h2.md)
       * [Elemen Paragraf](sdas/elemen-paragraf.md)
@@ -104,6 +103,10 @@
       * [Use display: flex to Position Two Boxes](sdas/use-display-flex-to-position-two-boxes.md)
       * [Add Flex Superpowers to the Tweet Embed](sdas/add-flex-superpowers-to-the-tweet-embed.md)
       * [Use the flex-direction Property to Make a Row](sdas/use-the-flex-direction-property-to-make-a-row.md)
-  * [Responsive Design with Bootstrap](responsive-design-with-bootstrap.md)
-  * jQuery
+    * CSS Grid
+    * Responsive Web Design Projects
+  * [Javascript Algorithms And Data Structures Certification](responsive-design-with-bootstrap.md)
+  * Front End Libraries Certification
+  * Data Visualization Certification
+  * Apis And Microservices Certification
 

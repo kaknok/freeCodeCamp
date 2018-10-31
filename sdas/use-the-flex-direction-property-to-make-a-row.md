@@ -16,12 +16,12 @@ Add the CSS property flex-direction to the #box-container element, and give it a
 The #box-container element should have a flex-direction property set to row-reverse.
 ```
 
-```php
+```css
 <style>
   #box-container {
     display: flex;
     height: 500px;
-    
+
   }
   #box-1 {
     background-color: dodgerblue;

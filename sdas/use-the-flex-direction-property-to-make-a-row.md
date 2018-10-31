@@ -41,5 +41,27 @@ The #box-container element should have a flex-direction property set to row-reve
 </div>
 ```
 
+![](/assets/syi.jpg)
+
+
+
+#### jasol:
+
+```
+<style>
+  #box-container {
+    display: flex;
+    height: 500px;
+    flex-direction: row-reverse;
+  }
+  #box-1 {
+    background-color: dodgerblue;
+    width: 50%;
+    height: 50%;
+  }
+```
+
+![](/assets/sy.jpg)
+
 
 

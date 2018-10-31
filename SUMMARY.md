@@ -111,6 +111,8 @@
       * [Align Elements Using the align-items Property](sdas/align-elements-using-the-align-items-property.md)
       * [Use the align-items Property in the Tweet Embed](sdas/use-the-align-items-property-in-the-tweet-embed.md)
       * [Use the flex-wrap Property to Wrap a Row or Column](sdas/use-the-flex-wrap-property-to-wrap-a-row-or-column.md)
+      * [Use the flex-shrink Property to Shrink Items](sdas/use-the-flex-shrink-property-to-shrink-items.md)
+      * [Use the flex-grow Property to Expand Items](sdas/use-the-flex-grow-property-to-expand-items.md)
     * CSS Grid
     * Responsive Web Design Projects
   * [Javascript Algorithms And Data Structures Certification](responsive-design-with-bootstrap.md)

@@ -109,6 +109,8 @@
       * [Align Elements Using the justify-content Property](sdas/align-elements-using-the-justify-content-property.md)
       * [Use the justify-content Property in the Tweet Embed](sdas/use-the-justify-content-property-in-the-tweet-embed.md)
       * [Align Elements Using the align-items Property](sdas/align-elements-using-the-align-items-property.md)
+      * [Use the align-items Property in the Tweet Embed](sdas/use-the-align-items-property-in-the-tweet-embed.md)
+      * [Use the flex-wrap Property to Wrap a Row or Column](sdas/use-the-flex-wrap-property-to-wrap-a-row-or-column.md)
     * CSS Grid
     * Responsive Web Design Projects
   * [Javascript Algorithms And Data Structures Certification](responsive-design-with-bootstrap.md)

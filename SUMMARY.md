@@ -124,7 +124,7 @@
       * [Use CSS Grid units to Change the Size of Columns and Rows](sdas/use-css-grid-units-to-change-the-size-of-columns-and-rows.md)
       * [Create a Column Gap Using grid-column-gap](sdas/create-a-column-gap-using-grid-column-gap.md)
       * [Create a Row Gap using grid-row-gap](sdas/create-a-row-gap-using-grid-row-gap.md)
-      * Add Gaps Faster with grid-gap
+      * [Add Gaps Faster with grid-gap](sdas/add-gaps-faster-with-grid-gap.md)
       * Use grid-column to Control Spacing
       * Use grid-row to Control Spacing
       * Align an Item Horizontally using justify-self

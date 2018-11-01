@@ -120,8 +120,8 @@
     * CSS Grid
       * [Create Your First CSS Grid](sdas/create-your-first-css-grid.md)
       * [Add Columns with grid-template-columns](sdas/add-columns-with-grid-template-columns.md)
-      * Add Rows with grid-template-rows
-      * Use CSS Grid units to Change the Size of Columns and Rows
+      * [Add Rows with grid-template-rows](sdas/add-rows-with-grid-template-rows.md)
+      * [Use CSS Grid units to Change the Size of Columns and Rows](sdas/use-css-grid-units-to-change-the-size-of-columns-and-rows.md)
       * Create a Column Gap Using grid-column-gap
       * Create a Row Gap using grid-row-gap
       * Add Gaps Faster with grid-gap

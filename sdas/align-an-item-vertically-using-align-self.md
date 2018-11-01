@@ -1,37 +1,31 @@
-## [Sejajarkan Item secara Horizontal menggunakan pembenaran diri](https://learn.freecodecamp.org/responsive-web-design/css-grid/align-an-item-horizontally-using-justify-self)
+## [Sejajarkan Item Secara vertikal menggunakan align-self](https://learn.freecodecamp.org/responsive-web-design/css-grid/align-an-item-vertically-using-align-self)
 
-Di CSS Grid, konten dari setiap item terletak di kotak yang disebut sebagai sel. Anda dapat menyelaraskan posisi konten dalam selnya secara horizontal menggunakan properti **justify-self** pada item grid. Secara default, properti ini memiliki nilai **stretch**, yang akan membuat konten mengisi seluruh lebar sel. Properti Grid CSS ini menerima nilai lain juga:
-
-* **start**: selaraskan konten di sebelah kiri sel,
-
-* **center**: selaraskan konten di tengah sel,
-
-* **end**: selaraskan konten di sebelah kanan sel.
+Sama seperti Anda dapat menyelaraskan item secara horizontal, ada cara untuk menyelaraskan item secara vertikal juga. Untuk melakukan ini, Anda menggunakan properti **align-self** pada item. Properti ini menerima semua nilai yang sama sebagai **justify-self** dari tantangan terakhir.
 
 #### cosol:
 
 ```
-Use the justify-self property to center the item with the class item2.
+Align the item with the class item3 vertically at the end.
 
-item2 class should have a justify-self property that has the value of center.
+item3 class should have a align-self property that has the value of end.
 ```
 
 ```css
 <style>
-  .item1{background: LightSkyBlue;}
+  .item1{background:LightSkyBlue;}
+  .item2{background:LightSalmon;}
   
-  .item2 {
-    background: LightSalmon;
+  .item3 {
+    background: PaleTurquoise;
     /* add your code below this line */
     
     
     /* add your code above this line */
   }
   
-  .item3{background:PaleTurquoise;}
   .item4{background:LightPink;}
   .item5{background:PaleGreen;}
-  
+
   .container {
     font-size: 40px;
     min-height: 300px;
@@ -59,20 +53,20 @@ item2 class should have a justify-self property that has the value of center.
 
 ```css
 <style>
-  .item1{background: LightSkyBlue;}
+  .item1{background:LightSkyBlue;}
+  .item2{background:LightSalmon;}
   
-  .item2 {
-    background: LightSalmon;
+  .item3 {
+    background: PaleTurquoise;
     /* add your code below this line */
-    justify-self: center;
+    align-self: end;
     
     /* add your code above this line */
   }
   
-  .item3{background:PaleTurquoise;}
   .item4{background:LightPink;}
   .item5{background:PaleGreen;}
-  
+
   .container {
     font-size: 40px;
     min-height: 300px;
@@ -94,5 +88,5 @@ item2 class should have a justify-self property that has the value of center.
 </div>
 ```
 
-![](/assets/15.jpg)
+![](/assets/111.jpg)
 

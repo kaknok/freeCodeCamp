@@ -2,8 +2,6 @@
 
 Anda dapat mengelompokkan sel-sel grid Anda ke suatu area dan memberi nama khusus pada area tersebut. Lakukan ini dengan menggunakan **grid-template-areas** pada wadah seperti ini:
 
-
-
 ```css
 grid-template-areas:
   "header header header"
@@ -11,15 +9,11 @@ grid-template-areas:
   "footer footer footer";
 ```
 
-Kode di atas menggabungkan tiga sel teratas menjadi sebuah **header** bernama daerah, tiga sel bawah menjadi area **footer**, dan itu membuat dua area di baris tengah; **advert** dan **content**.
-
-
+Kode di atas menggabungkan tiga sel teratas menjadi sebuah area adalah **header**, tiga sel bawah menjadi area **footer**, dan yang membuat dua area di baris tengah; **advert** dan **content**.
 
 Catatan
 
 Setiap kata dalam kode mewakili sel dan setiap pasangan tanda kutip mewakili satu baris.
-
-
 
 Selain label khusus, Anda dapat menggunakan periode \(.\) Untuk menetapkan sel kosong di grid.
 

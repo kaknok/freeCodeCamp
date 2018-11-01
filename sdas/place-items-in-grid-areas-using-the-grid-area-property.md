@@ -8,8 +8,6 @@ Setelah membuat templat area untuk penampung grid Anda, seperti yang ditunjukkan
 
 Ini memungkinkan grid mengetahui bahwa Anda ingin kelas item1 masuk ke area bernama header. Dalam hal ini, item akan menggunakan seluruh baris teratas karena seluruh baris itu disebut sebagai area header.
 
-
-
 #### cosol:
 
 ```
@@ -24,12 +22,12 @@ item5 class should have a grid-area property that has the value of footer.
   .item2{background:LightSalmon;}
   .item3{background:PaleTurquoise;}
   .item4{background:LightPink;}
-  
+
   .item5 {
     background: PaleGreen;
     /* add your code below this line */
-    
-    
+
+
     /* add your code above this line */
   }
   .container {
@@ -61,18 +59,18 @@ item5 class should have a grid-area property that has the value of footer.
 
 #### jasol:
 
-```
+```css
 <style>
   .item1{background:LightSkyBlue;}
   .item2{background:LightSalmon;}
   .item3{background:PaleTurquoise;}
   .item4{background:LightPink;}
-  
+
   .item5 {
     background: PaleGreen;
     /* add your code below this line */
-    
-    
+
+
     /* add your code above this line */
   }
   .container {

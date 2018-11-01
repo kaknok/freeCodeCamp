@@ -125,8 +125,8 @@
       * [Create a Column Gap Using grid-column-gap](sdas/create-a-column-gap-using-grid-column-gap.md)
       * [Create a Row Gap using grid-row-gap](sdas/create-a-row-gap-using-grid-row-gap.md)
       * [Add Gaps Faster with grid-gap](sdas/add-gaps-faster-with-grid-gap.md)
-      * Use grid-column to Control Spacing
-      * Use grid-row to Control Spacing
+      * [Use grid-column to Control Spacing](sdas/use-grid-column-to-control-spacing.md)
+      * [Use grid-row to Control Spacing](sdas/use-grid-row-to-control-spacing.md)
       * Align an Item Horizontally using justify-self
       * Align an Item Vertically using align-self
     * Responsive Web Design Projects

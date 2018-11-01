@@ -135,6 +135,8 @@
       * [Place Items in Grid Areas Using the grid-area Property](sdas/place-items-in-grid-areas-using-the-grid-area-property.md)
       * [Use grid-area Without Creating an Areas Template](sdas/use-grid-area-without-creating-an-areas-template.md)
       * [Reduce Repetition Using the repeat Function](sdas/reduce-repetition-using-the-repeat-function.md)
+      * [Limit Item Size Using the minmax Function](sdas/limit-item-size-using-the-minmax-function.md)
+      * [Create Flexible Layouts Using auto-fill](sdas/create-flexible-layouts-using-auto-fill.md)
     * Responsive Web Design Projects
   * [Javascript Algorithms And Data Structures Certification](responsive-design-with-bootstrap.md)
   * Front End Libraries Certification

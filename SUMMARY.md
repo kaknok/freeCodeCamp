@@ -116,6 +116,7 @@
       * [Use the flex-basis Property to Set the Initial Size of an Item](sdas/use-the-flex-basis-property-to-set-the-initial-size-of-an-item.md)
       * [Use the flex Shorthand Property](sdas/use-the-flex-shorthand-property.md)
       * [Use the order Property to Rearrange Items](sdas/use-the-order-property-to-rearrange-items.md)
+      * [Use the align-self Property](sdas/use-the-align-self-property.md)
     * CSS Grid
     * Responsive Web Design Projects
   * [Javascript Algorithms And Data Structures Certification](responsive-design-with-bootstrap.md)

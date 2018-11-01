@@ -139,6 +139,7 @@
       * [Create Flexible Layouts Using auto-fill](sdas/create-flexible-layouts-using-auto-fill.md)
       * [Create Flexible Layouts Using auto-fit](sdas/create-flexible-layouts-using-auto-fit.md)
       * [Use Media Queries to Create Responsive Layouts](sdas/use-media-queries-to-create-responsive-layouts.md)
+      * [Create Grids within Grids](sdas/create-grids-within-grids.md)
     * Responsive Web Design Projects
   * [Javascript Algorithms And Data Structures Certification](responsive-design-with-bootstrap.md)
   * Front End Libraries Certification

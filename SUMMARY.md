@@ -141,6 +141,11 @@
       * [Use Media Queries to Create Responsive Layouts](sdas/use-media-queries-to-create-responsive-layouts.md)
       * [Create Grids within Grids](sdas/create-grids-within-grids.md)
     * Responsive Web Design Projects
+      * [Build a Tribute Page](sdas/build-a-tribute-page.md)
+      * Build a Survey Form
+      * Build a Product Landing Page
+      * Build a Technical Documentation Page
+      * Build a Personal Portfolio Webpage
   * [Javascript Algorithms And Data Structures Certification](responsive-design-with-bootstrap.md)
   * Front End Libraries Certification
   * Data Visualization Certification

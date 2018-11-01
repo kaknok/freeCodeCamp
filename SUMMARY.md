@@ -133,6 +133,7 @@
       * [Align All Items Vertically using align-items](sdas/align-all-items-vertically-using-align-items.md)
       * [Divide the Grid Into an Area Template](sdas/divide-the-grid-into-an-area-template.md)
       * [Place Items in Grid Areas Using the grid-area Property](sdas/place-items-in-grid-areas-using-the-grid-area-property.md)
+      * [Use grid-area Without Creating an Areas Template](sdas/use-grid-area-without-creating-an-areas-template.md)
     * Responsive Web Design Projects
   * [Javascript Algorithms And Data Structures Certification](responsive-design-with-bootstrap.md)
   * Front End Libraries Certification

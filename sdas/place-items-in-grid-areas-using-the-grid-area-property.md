@@ -69,7 +69,7 @@ item5 class should have a grid-area property that has the value of footer.
   .item5 {
     background: PaleGreen;
     /* add your code below this line */
-
+    grid-area: footer;
 
     /* add your code above this line */
   }
@@ -98,5 +98,5 @@ item5 class should have a grid-area property that has the value of footer.
 </div>
 ```
 
-
+![](/assets/18.jpg)
 

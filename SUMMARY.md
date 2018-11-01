@@ -127,7 +127,7 @@
       * [Add Gaps Faster with grid-gap](sdas/add-gaps-faster-with-grid-gap.md)
       * [Use grid-column to Control Spacing](sdas/use-grid-column-to-control-spacing.md)
       * [Use grid-row to Control Spacing](sdas/use-grid-row-to-control-spacing.md)
-      * Align an Item Horizontally using justify-self
+      * [Align an Item Horizontally using justify-self](sdas/align-an-item-horizontally-using-justify-self.md)
       * Align an Item Vertically using align-self
     * Responsive Web Design Projects
   * [Javascript Algorithms And Data Structures Certification](responsive-design-with-bootstrap.md)

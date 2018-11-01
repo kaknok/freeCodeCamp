@@ -118,6 +118,17 @@
       * [Use the order Property to Rearrange Items](sdas/use-the-order-property-to-rearrange-items.md)
       * [Use the align-self Property](sdas/use-the-align-self-property.md)
     * CSS Grid
+      * [Create Your First CSS Grid](sdas/create-your-first-css-grid.md)
+      * [Add Columns with grid-template-columns](sdas/add-columns-with-grid-template-columns.md)
+      * Add Rows with grid-template-rows
+      * Use CSS Grid units to Change the Size of Columns and Rows
+      * Create a Column Gap Using grid-column-gap
+      * Create a Row Gap using grid-row-gap
+      * Add Gaps Faster with grid-gap
+      * Use grid-column to Control Spacing
+      * Use grid-row to Control Spacing
+      * Align an Item Horizontally using justify-self
+      * Align an Item Vertically using align-self
     * Responsive Web Design Projects
   * [Javascript Algorithms And Data Structures Certification](responsive-design-with-bootstrap.md)
   * Front End Libraries Certification

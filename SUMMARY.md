@@ -137,6 +137,7 @@
       * [Reduce Repetition Using the repeat Function](sdas/reduce-repetition-using-the-repeat-function.md)
       * [Limit Item Size Using the minmax Function](sdas/limit-item-size-using-the-minmax-function.md)
       * [Create Flexible Layouts Using auto-fill](sdas/create-flexible-layouts-using-auto-fill.md)
+      * [Create Flexible Layouts Using auto-fit](sdas/create-flexible-layouts-using-auto-fit.md)
     * Responsive Web Design Projects
   * [Javascript Algorithms And Data Structures Certification](responsive-design-with-bootstrap.md)
   * Front End Libraries Certification

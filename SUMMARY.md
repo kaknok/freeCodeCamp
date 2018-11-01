@@ -130,6 +130,7 @@
       * [Align an Item Horizontally using justify-self](sdas/align-an-item-horizontally-using-justify-self.md)
       * [Align an Item Vertically using align-self](sdas/align-an-item-vertically-using-align-self.md)
       * [Align All Items Horizontally using justify-items](sdas/align-all-items-horizontally-using-justify-items.md)
+      * [Align All Items Vertically using align-items](sdas/align-all-items-vertically-using-align-items.md)
     * Responsive Web Design Projects
   * [Javascript Algorithms And Data Structures Certification](responsive-design-with-bootstrap.md)
   * Front End Libraries Certification

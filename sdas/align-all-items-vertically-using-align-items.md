@@ -1,13 +1,13 @@
-## [Sejajarkan Semua Item secara Horizontal menggunakan item justify](https://learn.freecodecamp.org/responsive-web-design/css-grid/align-all-items-horizontally-using-justify-items)
+## [Sejajarkan Semua Item Secara vertikal menggunakan item sejajar](https://learn.freecodecamp.org/responsive-web-design/css-grid/align-all-items-vertically-using-align-items)
 
-Terkadang Anda ingin semua item di Grid CSS Anda untuk berbagi kesejajaran yang sama. Anda dapat menggunakan properti yang telah dipelajari sebelumnya dan menyelaraskannya satu per satu, atau Anda dapat menyelaraskannya secara horizontal dengan menggunakan justify-items pada container grid Anda. Properti ini dapat menerima semua nilai yang sama yang Anda pelajari dalam dua tantangan sebelumnya, perbedaannya adalah bahwa ia akan memindahkan semua item di grid kita ke penyelarasan yang diinginkan.
+Menggunakan properti **align-items** pada container grid akan mengatur perataan vertikal untuk semua item di grid.
 
-#### cosol:
+
 
 ```
-Use this property to center all our items horizontally.
+Use it now to move all the items to the end of each cell.
 
-container class should have a justify-items property that has the value of center.
+container class should have a align-items property that has the value of end.
 ```
 
 ```css
@@ -17,7 +17,7 @@ container class should have a justify-items property that has the value of cente
   .item3{background:PaleTurquoise;}
   .item4{background:LightPink;}
   .item5{background:PaleGreen;}
-
+  
   .container {
     font-size: 40px;
     min-height: 300px;
@@ -28,11 +28,12 @@ container class should have a justify-items property that has the value of cente
     grid-template-rows: 1fr 1fr 1fr;
     grid-gap: 10px;
     /* add your code below this line */
-
+    
+    
     /* add your code above this line */
   }
 </style>
-
+  
 <div class="container">
   <div class="item1">1</div>
   <div class="item2">2</div>
@@ -44,6 +45,8 @@ container class should have a justify-items property that has the value of cente
 
 ![](/assets/13.jpg)
 
+
+
 #### jasol:
 
 ```css
@@ -53,7 +56,7 @@ container class should have a justify-items property that has the value of cente
   .item3{background:PaleTurquoise;}
   .item4{background:LightPink;}
   .item5{background:PaleGreen;}
-
+  
   .container {
     font-size: 40px;
     min-height: 300px;
@@ -64,11 +67,12 @@ container class should have a justify-items property that has the value of cente
     grid-template-rows: 1fr 1fr 1fr;
     grid-gap: 10px;
     /* add your code below this line */
-    justify-items: center;
+    
+    align-items: end;    
     /* add your code above this line */
   }
 </style>
-
+  
 <div class="container">
   <div class="item1">1</div>
   <div class="item2">2</div>
@@ -78,5 +82,5 @@ container class should have a justify-items property that has the value of cente
 </div>
 ```
 
-![](/assets/16.jpg)
+![](/assets/17.jpg)
 
